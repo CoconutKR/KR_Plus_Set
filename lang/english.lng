@@ -1,0 +1,7 @@
+##grflangid 0x00
+
+
+# GRF name and description
+STR_GRF_NAME_WITH_VER                            :Korean Airliners Set v{VERSION}
+STR_GRF_DESC                                     :Korean Airliners Set
+STR_GRF_URL                                      :https://github.com/KoreanGRF/KoreanEmptySet
