@@ -1,28 +1,29 @@
-# OpenTTD Korean Train Set+ 한국열차세트+
-## 저작권
- CC-BY-NC-SA v3.0 : 비영리조건이며, 스프라이트를 제공한 뒤엔 얼마든지 수정할 수 있습니다.<br>
+# Korean Train Set+ 한국 열차 세트+
+**한국 열차 세트+** 는 [한국열차세트](https://github.com/KoreanGRF/KoreanTrainSet)에 없는 한국열차를 보완하기 위해 개발된 OpenTTD NewGRF입니다.  
+게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanTrainSet_Plus/releases)에서 다운로드할 수 있습니다.
 
-## 컴퍼일
-makefile, [nml0.6.1](https://github.com/OpenTTD/nml) 등의 최신버전을 사용합니다.<br>
+## 차량 목록 및 스펙
 
-## 자료활용
-저작권 특성상 자유로운 변경공개이므로, 이미 공개된 자료에 대해선 얼마든지 수정하실 수 있습니다.<br>
+## 개발
+### 빌드하는 방법
+이 NewGRF를 빌드하려면 [NML](https://github.com/OpenTTD/nml)과 **Python 3**이 필요합니다.  
+터미널 쉘에서 ``make``를 실행하세요. Windows 환경이라면, 그 전에 명령 프롬포트를 열고 ``bash``를 입력하세요.  
+``make clean``을 입력하면 모든 생성된 파일이 초기화됩니다.
 
 ## 자료공개
 
-공식 : 최종본이 완성되면 공개합니다. 공개버전은 매달 첫번째 토요일 0:00 이후에 등록하는 것으로 하겠습니다.<br>
+공식 버전 : 공개버전은 매달 첫번째 토요일 0:00 이후에 등록되며 OpenTTD 게임 내 온라인컨텐츠에서 다운로드 받을수 있습니다.<br>
 
 
-베타 : 베타 버전은 Pre-relesase이며, 코딩이 완료된 자료를 업로드합니다. 공식 릴리즈보다는 앞서 만나볼 수 있으며, 테스트의 목적와 선공개의 목적으로 공개됩니다.
-
-
-공개일 : 매달 첫번째 토요일에 공개됩니다.
-
-## 자료제공
-본 한국열차세트+ 는 YST에서 분리된 GRF로 일부 스프라이트는 YST에서 제작되었습니다.
+베타 버전 : 베타 버전은 Pre-relesase이며, 코딩이 완료된 자료를 업로드합니다. 공식 릴리즈보다는 앞서 만나볼 수 있으며, 테스트의 목적와 선공개의 목적으로 공개됩니다.
 
 ## 커뮤니티
 [![디스코드로고](https://github.com/evepoi/YST/blob/minengallery/docs/img/discord_logo.png)](https://discord.gg/WNrjUatFkz)
 
-# Korean Train Set+ 열차 목록
-## 개요
+## 자료제공
+본 가상열차세트는 YST에서 분리된 GRF로 일부 스프라이트는 YST에서 제작되었습니다.
+- [YST](https://github.com/evepoi/YST)
+
+## 저작권
+이 NewGRF는 크리에이티브 커먼스 라이선스 v3.0 (CC-BY-NC-SA v3.0)을 따릅니다. <br>
+이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다.
