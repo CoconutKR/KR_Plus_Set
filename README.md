@@ -21,7 +21,7 @@
 [![디스코드로고](https://github.com/evepoi/YST/blob/minengallery/docs/img/discord_logo.png)](https://discord.gg/WNrjUatFkz)
 
 ## 자료제공
-본 가상열차세트는 YST에서 분리된 GRF로 일부 스프라이트는 YST에서 제작되었습니다.
+본 한국 열차 세트+ 애드온는 YST에서 분리된 GRF로 일부 스프라이트는 YST에서 제작되었습니다.
 - [YST](https://github.com/evepoi/YST)
 
 ## 저작권
