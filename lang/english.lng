@@ -14,11 +14,11 @@ STR_GTX_NAME                                        :[KTS+] GTX
 STR_HEMU_430X_NAME                                  :[KTS+] HEMU-430X
 STR_HSR_350X_NAME                                   :[KTS+] HSR-350X
 STR_ICE_CW_NAME                                     :[KTS+] ITX-Chowol
-STR_ITX_SM2_NAME                                    :[KTS+] ITX-SM2
-STR_KTX_EM_NAME                                     :[KTS+] KTX-EM
-STR_KTX_N_NAME                                      :[KTS+] KTX-N
-STR_KTX_SC2_NAME                                    :[KTS+] KTX-SC2
-STR_NRT2_NAME                                       :[KTS+] NRT2
+STR_ITX_SM2_NAME                                    :[KTS+] ITX-Saemaeul DD
+STR_KTX_EM_NAME                                     :[KTS+] KTX-Eum DD
+STR_KTX_N_NAME                                      :[KTS+] EMU-320 DD
+STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
+STR_NRT2_NAME                                       :[KTS+] Nuriro DD
 
 # wagon's name
 STR_KTS_1F_PASS_NAME                                :[KTS+] 1F Passenger Car
@@ -57,15 +57,15 @@ STR_REFIT_LIVERY_EMU150R                            :(EMU-150 Red Color)
 STR_REFIT_LIVERY_EMU150G                            :(EMU-150 Green Color)
 STR_REFIT_LIVERY_EMU320                             :(EMU-320)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
-STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-SM2 Red Color)
-STR_REFIT_LIVERY_ITX_SM2_G                          :(ITX-SM2 Green Color)
-STR_REFIT_LIVERY_ITX_SM2_W                          :(ITX-SM2 White Color)
-STR_REFIT_LIVERY_KTX_SC2_B                          :(KTX-SC2 Blue Color)
-STR_REFIT_LIVERY_KTX_SC2_G                          :(KTX-SC2 Green Color)
-STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-SC2 White Color)
-STR_REFIT_LIVERY_NRT2_B                             :(NRT2 Blue Color)
-STR_REFIT_LIVERY_NRT2_G                             :(NRT2 Green Color)
-STR_REFIT_LIVERY_NRT2_W                             :(NRT2 White Color)
+STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-Saemaeul DD Red Color)
+STR_REFIT_LIVERY_ITX_SM2_G                          :(ITX-Saemaeul DD Green Color)
+STR_REFIT_LIVERY_ITX_SM2_W                          :(ITX-Saemaeul DD White Color)
+STR_REFIT_LIVERY_KTX_SC2_B                          :(KTX-DD Blue Color)
+STR_REFIT_LIVERY_KTX_SC2_G                          :(KTX-DD Green Color)
+STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-DD White Color)
+STR_REFIT_LIVERY_NRT2_B                             :(Nuriro DD Blue Color)
+STR_REFIT_LIVERY_NRT2_G                             :(Nuriro DD Green Color)
+STR_REFIT_LIVERY_NRT2_W                             :(Nuriro DD White Color)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

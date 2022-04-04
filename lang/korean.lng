@@ -14,11 +14,11 @@ STR_GTX_NAME                                        :[KTS+] GTX
 STR_HEMU_430X_NAME                                  :[KTS+] HEMU-430X
 STR_HSR_350X_NAME                                   :[KTS+] HSR-350X
 STR_ICE_CW_NAME                                     :[KTS+] ITX-초월
-STR_ITX_SM2_NAME                                    :[KTS+] ITX-SM2
-STR_KTX_EM_NAME                                     :[KTS+] KTX-EM
-STR_KTX_N_NAME                                      :[KTS+] KTX-N
-STR_KTX_SC2_NAME                                    :[KTS+] KTX-SC2
-STR_NRT2_NAME                                       :[KTS+] NRT2
+STR_ITX_SM2_NAME                                    :[KTS+] ITX-새마을 DD
+STR_KTX_EM_NAME                                     :[KTS+] KTX-이음 DD
+STR_KTX_N_NAME                                      :[KTS+] EMU-320 DD
+STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
+STR_NRT2_NAME                                       :[KTS+] 누리로 DD
 
 # wagon's name
 STR_KTS_1F_PASS_NAME                                :[KTS+] 1층 공통 객차
@@ -55,17 +55,17 @@ STR_REFIT_train_configuration_2F                    :{BLACK}열차구성: {GREEN
 # Liveries locomotive
 STR_REFIT_LIVERY_EMU150R                            :(EMU-150 빨강도색)
 STR_REFIT_LIVERY_EMU150G                            :(EMU-150 녹색도색)
-STR_REFIT_LIVERY_EMU320                             :(EMU-320)
+STR_REFIT_LIVERY_EMU320                             :(EMU-320 회사색상)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
-STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-SM2 빨강도색)
-STR_REFIT_LIVERY_ITX_SM2_G                          :(ITX-SM2 녹색도색)
-STR_REFIT_LIVERY_ITX_SM2_W                          :(ITX-SM2 흰색도색)
-STR_REFIT_LIVERY_KTX_SC2_B                          :(KTX-SC2 파랑도색)
-STR_REFIT_LIVERY_KTX_SC2_G                          :(KTX-SC2 녹색도색)
-STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-SC2 흰색도색)
-STR_REFIT_LIVERY_NRT2_B                             :(NRT2 파랑도색)
-STR_REFIT_LIVERY_NRT2_G                             :(NRT2 녹색도색)
-STR_REFIT_LIVERY_NRT2_W                             :(NRT2 흰색도색)
+STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-새마을 DD 빨강도색)
+STR_REFIT_LIVERY_ITX_SM2_G                          :(ITX-새마을 DD 녹색도색)
+STR_REFIT_LIVERY_ITX_SM2_W                          :(ITX-새마을 DD 흰색도색)
+STR_REFIT_LIVERY_KTX_SC2_B                          :(KTX-DD 파랑도색)
+STR_REFIT_LIVERY_KTX_SC2_G                          :(KTX-DD 녹색도색)
+STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-DD 흰색도색)
+STR_REFIT_LIVERY_NRT2_B                             :(누리로 DD 파랑도색)
+STR_REFIT_LIVERY_NRT2_G                             :(누리로 DD 녹색도색)
+STR_REFIT_LIVERY_NRT2_W                             :(누리로 DD 흰색도색)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다
