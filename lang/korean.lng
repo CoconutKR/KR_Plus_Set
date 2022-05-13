@@ -21,8 +21,7 @@ STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
 STR_NRT2_NAME                                       :[KTS+] 누리로 DD
 
 # wagon's name
-STR_KTS_1F_PASS_NAME                                :[KTS+] 1층 공통 객차
-STR_KTS_2F_PASS_NAME                                :[KTS+] 2층 공통 객차
+STR_KTS_PASS_NAME                                   :[KTS+] 승객 수송 차량
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :일반열차 속도변수
@@ -49,8 +48,7 @@ STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}열차 실존여부 
 STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}NRT2
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
-STR_REFIT_train_configuration_1F                    :{BLACK}열차구성: {GREEN}1층 승객 차량용
-STR_REFIT_train_configuration_2F                    :{BLACK}열차구성: {GREEN}2층 승객 차량용
+STR_REFIT_train_configuration                       :{BLACK}열차구성: {GREEN}승객 차량용
 
 # Liveries locomotive
 STR_REFIT_LIVERY_EMU150R                            :(EMU-150 빨강도색)

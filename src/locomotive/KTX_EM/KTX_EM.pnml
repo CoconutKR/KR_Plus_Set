@@ -60,7 +60,7 @@ item(FEAT_TRAINS, KTX_EM, 1072){
         additional_text:                string(STR_REFIT_ADDITIONAL_KTX_EM);
         }
 
-    livery_override(KTS_2F_Passenger_Car) {
+    livery_override(KTS_Passenger_Car) {
         default:                        sw_KTX_EM_wagon;
         cargo_capacity:                 160;
         loading_speed:                  25;

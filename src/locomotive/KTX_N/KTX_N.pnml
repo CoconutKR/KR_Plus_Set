@@ -63,7 +63,7 @@ item(FEAT_TRAINS, KTX_N, 1073){
         additional_text:                string(STR_REFIT_ADDITIONAL_KTX_N);
         }
 
-    livery_override(KTS_2F_Passenger_Car) {
+    livery_override(KTS_Passenger_Car) {
         default:                        sw_KIN_N_wagon;
         cargo_capacity:                 116;
         loading_speed:                  25;

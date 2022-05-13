@@ -1,5 +1,5 @@
 //wagon
-#include "wagon/passenger_wagon/passenger_wagon.pnml"
+#include "wagon/passenger_wagon/passenger_wagon_all.pnml"
 
 //locomotive
 #include "locomotive/EMU/EMU150/EMU150.pnml"
