@@ -52,7 +52,6 @@ item(FEAT_TRAINS, HSR_350X, 1069){
 	graphics {
         default:                        sw_HSR_350X_engine;
         purchase:                       sw_HSR_350X_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;
