@@ -2,9 +2,9 @@
 ##gender m f
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :한국 열차 세트+ v{VERSION}
-STR_GRF_DESC                                     :한국 열차 세트+ 입니다
-STR_GRF_URL                                      :https://github.com/KoreanGRF/KoreanEmptySet
+STR_GRF_NAME_WITH_VER                            :한국 열차 세트+ 애드온 v{VERSION}
+STR_GRF_DESC                                     :{BLACK}한국 열차 세트+ 애드온은 생산이 예정된 한국의 열차와 가상의 2층열차를 추가해줍니다. {}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작: 경부라이너
+STR_GRF_URL                                      :https://github.com/GBLINER/KoreanTrainSet_Plus
 
 # locomotive's name
 STR_EMU150_NAME                                     :[KTS+] EMU-150
@@ -34,18 +34,18 @@ STR_PARAM_High_SPEED_Train_430_NAME                 :고속열차 속도변수 (
 STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 조정합니다. (기본:430km/h)
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
-STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}열차 실존여부 : {PURPLE}계획 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}열차 실존여부 : {PURPLE}계획 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}열차 실존여부 : {PURPLE}계획 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_GTX                            :{BLACK}열차 실존여부 : {PURPLE}계획 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}GTX
-STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}열차 실존여부 : {YELLOW}시험 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HEMU-430X
-STR_REFIT_ADDITIONAL_HSR_350X                       :{BLACK}열차 실존여부 : {YELLOW}시험 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HSR-350X
-STR_REFIT_ADDITIONAL_ITX_CW                         :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}ITX-초월
-STR_REFIT_ADDITIONAL_ITX_SM2                        :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}ITX-SM2
-STR_REFIT_ADDITIONAL_KTX_EM                         :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}KTX-EM
-STR_REFIT_ADDITIONAL_KTX_N                          :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}KTX-N
-STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}KTX-SC2
-STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}열차 실존여부 : {RED}가상 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}NRT2
+STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_GTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}GTX
+STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HEMU-430X
+STR_REFIT_ADDITIONAL_HSR_350X                       :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HSR-350X
+STR_REFIT_ADDITIONAL_ITX_CW                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}ITX-초월
+STR_REFIT_ADDITIONAL_ITX_SM2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}ITX-새마을 DD
+STR_REFIT_ADDITIONAL_KTX_EM                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}KTX-이음 DD
+STR_REFIT_ADDITIONAL_KTX_N                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-320 DD
+STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}KTX-DD
+STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}누리로 DD
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration                       :{BLACK}열차구성: {GREEN}승객 차량용

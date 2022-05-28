@@ -2,9 +2,9 @@
 
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :Korean Train Set+ v{VERSION}
-STR_GRF_DESC                                     :Korean Train Set+
-STR_GRF_URL                                      :https://github.com/KoreanGRF/KoreanEmptySet
+STR_GRF_NAME_WITH_VER                            :Korean Train Set+ Addon v{VERSION}
+STR_GRF_DESC                                     :{BLACK}The Korean Train Set+ Add-on adds Korean trains scheduled for production and virtual double-decker trains. {}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: GBLINER
+STR_GRF_URL                                      :https://github.com/GBLINER/KoreanTrainSet_Plus
 
 # locomotive's name
 STR_EMU150_NAME                                     :[KTS+] EMU-150
