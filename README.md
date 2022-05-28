@@ -1,5 +1,5 @@
 # Korean Train Set+ Addon 한국 열차 세트+ 애드온
-**한국 열차 세트+ 애드온**은 [한국열차세트](https://github.com/KoreanGRF/KoreanTrainSet)에 없는 실제 한국열차를 보완하기 위해 개발된 OpenTTD NewGRF입니다.  
+**한국 열차 세트+ 애드온**은 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차와 가상의 2층열차를 추가해줍니다. 
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanTrainSet_Plus/releases)에서 다운로드할 수 있습니다.
 
 ## 차량 목록 및 스펙
