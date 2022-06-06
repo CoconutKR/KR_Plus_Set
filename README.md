@@ -1,4 +1,6 @@
 # Korean Train Set+ Addon 한국 열차 세트+ 애드온
+![KTS+단체](https://user-images.githubusercontent.com/85421764/172092850-0fed6ec3-701b-4e6f-9b90-ac8775605d03.png)
+
 **한국 열차 세트+ 애드온**은 한국에서 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차, 그리고 가상의 2층열차를 추가해줍니다. 
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanTrainSet_Plus/releases)에서 다운로드할 수 있습니다.
 
