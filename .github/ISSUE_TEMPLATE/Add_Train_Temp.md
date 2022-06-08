@@ -1,11 +1,4 @@
 ---
-name: "[열차추가]"
-about: 새로운 열차 추가시 적용할 템플릿입니다.
-title: "[열차추가] 열차이름"
-labels: Add train
-assignees: ''
-
----
 name: 신규 차량 그래픽 제공(Offer new vehicle sprites)
 about: 신규 차량에 대한 그래픽과 정보를 제공하는 이슈 (An issue for offering sprites and info for new
   vehicle)
