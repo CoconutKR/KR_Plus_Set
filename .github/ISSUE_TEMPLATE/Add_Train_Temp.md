@@ -18,13 +18,13 @@ Please attach the graphic sprite here.
 **제안할 차량 제원(Suggest vehicle specification):**
 | Property | Suggest value |
 |--------|--------|
-| 이름(Name in Korean) _(eg. ``KTX 산천``)_ | 이름 |
-| 영문 이름(Name in English) _(eg. ``KTX Sancheon``)_ | Name |
-| 코드(Code) _(eg. ``KTX2N``)_ | ``제안할_코드명`` |
-| 운영 속력(Speed) _(eg. ``300km/h``)_ | 000 km/h |
-| 설계 최고 속력(Designed max. speed) _(eg. ``330km/h``)_ | 000 km/h |
-| 화물 수송량(Capacity) _(eg. ``100명``)_ | 00 |
-| 출력(Power) _(eg. ``4400kW``)_ | 00kW |
-| 중량(Weight) _(eg. ``136t``)_ | 00t |
-| 도입연도(Introduction year) _(eg. ``2004``)_ | 1900 |
+| 이름(Name in Korean) _(예시. ``KTX 산천``)_ | 이름 |
+| 영문 이름(Name in English) _(예시. ``KTX Sancheon``)_ | Name |
+| 코드(Code) _(예시. ``KTX2N``)_ | ``제안할_코드명`` |
+| 운영 속력(Speed) _(예시. ``300km/h``)_ | 000 km/h |
+| 설계 최고 속력(Designed max. speed) _(예시. ``330km/h``)_ | 000 km/h |
+| 화물 수송량(Capacity) _(예시. ``100명``)_ | 00 |
+| 출력(Power) _(예시. ``4400kW``)_ | 00kW |
+| 중량(Weight) _(예시. ``136t``)_ | 00t |
+| 도입연도(Introduction year) _(예시. ``2004``)_ | 1900 |
 
