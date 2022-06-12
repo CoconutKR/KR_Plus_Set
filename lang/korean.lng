@@ -53,6 +53,7 @@ STR_REFIT_train_configuration                       :{BLACK}열차구성: {GREEN
 # Liveries locomotive
 STR_REFIT_LIVERY_EMU150R                            :(EMU-150 빨강도색)
 STR_REFIT_LIVERY_EMU150G                            :(EMU-150 녹색도색)
+STR_REFIT_LIVERY_EMU150W                            :(EMU-150 하양도색)
 STR_REFIT_LIVERY_EMU320                             :(EMU-320 회사색상)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
 STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-새마을 DD 빨강도색)

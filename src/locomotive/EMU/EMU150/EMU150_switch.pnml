@@ -3,16 +3,19 @@
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_EMU150_cargo_subtype_text, cargo_subtype) {
     1: return string(STR_REFIT_LIVERY_EMU150G);   // 녹색
+    2: return string(STR_REFIT_LIVERY_EMU150W);   // 하양
     return string(STR_REFIT_LIVERY_EMU150R);
 }
 
 switch(FEAT_TRAINS, SELF, sw_EMU150_engineH, cargo_subtype) {
     1: set_EMU150G_engineH;   // 녹색
+    2: set_EMU150W_engineH;   // 하양
     set_EMU150R_engineH;
 }
 
 switch(FEAT_TRAINS, SELF, sw_EMU150_engineT, cargo_subtype) {
     1: set_EMU150G_engineT;   // 녹색
+    2: set_EMU150W_engineT;   // 하양
     set_EMU150R_engineT;
 }
 
@@ -23,16 +26,19 @@ switch(FEAT_TRAINS, SELF, sw_EMU150_engine, position_in_consist_from_end == 0 &&
 
 switch(FEAT_TRAINS, SELF, sw_EMU150_wagon_start, cargo_subtype) {
     1: set_EMU150G_wagon_start;   // 녹색
+    2: set_EMU150W_wagon_start;   // 하양
     set_EMU150R_wagon_start;
 }
 
 switch(FEAT_TRAINS, SELF, sw_EMU150_wagon_end, cargo_subtype) {
     1: set_EMU150G_wagon_end;   // 녹색
+    2: set_EMU150W_wagon_end;   // 하양
     set_EMU150R_wagon_end;
 }
 
 switch(FEAT_TRAINS, SELF, sw_EMU150_wagon_middle, (cargo_subtype)) {
     1: set_EMU150G_wagon;   // 녹색
+    2: set_EMU150W_wagon;   // 하양
     set_EMU150R_wagon;
 }
 

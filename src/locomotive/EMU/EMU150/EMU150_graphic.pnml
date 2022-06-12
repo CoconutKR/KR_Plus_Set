@@ -112,6 +112,33 @@ alternative_sprites(set_EMU150G_engineT, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "sr
 }
 
 /*--------------------------------------------------------------------
+3. EMU150W
+--------------------------------------------------------------------*/
+spriteset(set_EMU150WH_purchase, "src/locomotive/EMU/EMU150/EMU150W.png"){
+	tmpl_purchase_for_dualhead(0, 108)
+}
+
+spriteset(set_EMU150W_engineH, "src/locomotive/EMU/EMU150/EMU150W.png"){
+	engine(80, 0)
+}
+
+spriteset(set_EMU150W_wagon_start, "src/locomotive/EMU/EMU150/EMU150W.png"){
+	wagon_start(80, 27)
+}
+
+spriteset(set_EMU150W_wagon, "src/locomotive/EMU/EMU150/EMU150W.png") {
+	wagon_1F_F(80, 54)
+}
+
+spriteset(set_EMU150W_wagon_end, "src/locomotive/EMU/EMU150/EMU150W.png"){
+	wagon_start(80, 81)
+}
+
+spriteset(set_EMU150W_engineT, "src/locomotive/EMU/EMU150/EMU150W.png"){
+	engine_r(80, 108)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_EMU150_purchase, cargo_subtype) {
