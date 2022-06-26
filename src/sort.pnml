@@ -5,6 +5,7 @@ sort(FEAT_TRAINS, [
     EMU150,                    //1063
     EMU260,                    //1064
     EMU320,                    //1065
+    GT26CW,                    //1114
     GTX,                       //1067
     HEMU_430X,                 //1068
     HSR_350X,                  //1069

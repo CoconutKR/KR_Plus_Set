@@ -10,6 +10,7 @@ STR_GRF_URL                                      :https://github.com/GBLINER/Kor
 STR_EMU150_NAME                                     :[KTS+] EMU-150
 STR_EMU260_NAME                                     :[KTS+] EMU-260
 STR_EMU320_NAME                                     :[KTS+] EMU-320
+STR_GT26CW_NAME                                     :[KTS+] GT26CW
 STR_GTX_NAME                                        :[KTS+] GTX
 STR_HEMU_430X_NAME                                  :[KTS+] HEMU-430X
 STR_HSR_350X_NAME                                   :[KTS+] HSR-350X
@@ -37,6 +38,7 @@ STR_PARAM_High_SPEED_Train_430_DESC                 :Adjust the speed of the hig
 STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, EMU-260, EUM-320
 STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-150, EMU-260, EUM-320
 STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}GT26CW
 STR_REFIT_ADDITIONAL_GTX                            :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}GTX
 STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}HEMU-430X
 STR_REFIT_ADDITIONAL_HSR_350X                       :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}HSR-350X
@@ -56,6 +58,8 @@ STR_REFIT_LIVERY_EMU150G                            :(EMU-150 Green Color)
 STR_REFIT_LIVERY_EMU150W                            :(EMU-150 White Color)
 STR_REFIT_LIVERY_EMU320                             :(EMU-320)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
+STR_REFIT_LIVERY_GT26CW_Korail                      :(GT26CW Korail)
+STR_REFIT_LIVERY_GT26CW_CL                          :(GT26CW CL)
 STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-Saemaeul DD Red Color)
 STR_REFIT_LIVERY_ITX_SM2_G                          :(ITX-Saemaeul DD Green Color)
 STR_REFIT_LIVERY_ITX_SM2_W                          :(ITX-Saemaeul DD White Color)
@@ -65,6 +69,11 @@ STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-DD White Color)
 STR_REFIT_LIVERY_NRT2_B                             :(Nuriro DD Blue Color)
 STR_REFIT_LIVERY_NRT2_G                             :(Nuriro DD Green Color)
 STR_REFIT_LIVERY_NRT2_W                             :(Nuriro DD White Color)
+
+STR_REFIT_LIVERY_EMU150R_car_wagon                  :(EMU-150 Car Wagon Red Color)
+STR_REFIT_LIVERY_EMU150G_car_wagon                  :(EMU-150 Car Wagon Green Color)
+STR_REFIT_LIVERY_EMU150W_car_wagon                  :(EMU-150 Car Wagon White Color)
+STR_REFIT_LIVERY_Empty_car_wagon                    :(Test Car)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

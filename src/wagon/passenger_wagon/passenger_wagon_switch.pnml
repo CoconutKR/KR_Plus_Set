@@ -28,3 +28,35 @@ switch(FEAT_TRAINS, SELF, sw_Passenge_wagon, (position_in_vehid_chain + 1) <= (n
     1: set_wagon;
     set_wagon_r;
 }
+
+/*--------------------------------------------------------------------
+2. 객차형
+--------------------------------------------------------------------*/
+switch(FEAT_TRAINS, SELF, sw_Passenge_car_wagon_cargo_subtype, cargo_subtype) {
+    1: return string(STR_REFIT_LIVERY_EMU150G_car_wagon);   // EMU-150 녹색
+    2: return string(STR_REFIT_LIVERY_EMU150W_car_wagon);   // EMU-150 흰색
+    3: return string(STR_REFIT_LIVERY_Empty_car_wagon);     // 발전차
+    return string(STR_REFIT_LIVERY_EMU150R_car_wagon);
+}
+
+switch(FEAT_TRAINS, SELF, sw_Passenge_car_wagon, cargo_subtype) {
+    1: set_EMU_150G_wagon;    // EMU-150 녹색
+    2: set_EMU_150W_wagon;    // EMU-150 흰색
+    3: set_Emtpy_wagon;        // 발전차
+    set_EMU_150R_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_Passenge_car_wagon_capacity_in_custom, cargo_subtype) {
+    1: return 72;
+    2: return 72;
+    3: return 0;
+       72;
+}
+
+switch(FEAT_TRAINS, SELF, sw_Passenge_car_wagon_length_in_custom, cargo_subtype) {
+    1: return 8;
+    2: return 8;
+    3: return 7;
+       8;
+}
+

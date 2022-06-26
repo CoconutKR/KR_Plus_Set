@@ -5,6 +5,7 @@
 #include "locomotive/EMU/EMU150/EMU150.pnml"
 #include "locomotive/EMU/EMU260/EMU260.pnml"
 #include "locomotive/EMU/EMU320/EMU320.pnml"
+#include "locomotive/GT26CW/GT26CW.pnml"
 #include "locomotive/GTX/GTX.pnml"
 #include "locomotive/HEMU_430X/HEMU_430X.pnml"
 #include "locomotive/HSR_350X/HSR_350X.pnml"
