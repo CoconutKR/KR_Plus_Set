@@ -70,11 +70,6 @@ STR_REFIT_LIVERY_NRT2_B                             :(Nuriro DD Blue Color)
 STR_REFIT_LIVERY_NRT2_G                             :(Nuriro DD Green Color)
 STR_REFIT_LIVERY_NRT2_W                             :(Nuriro DD White Color)
 
-STR_REFIT_LIVERY_EMU150R_car_wagon                  :(EMU-150 Car Wagon Red Color)
-STR_REFIT_LIVERY_EMU150G_car_wagon                  :(EMU-150 Car Wagon Green Color)
-STR_REFIT_LIVERY_EMU150W_car_wagon                  :(EMU-150 Car Wagon White Color)
-STR_REFIT_LIVERY_Empty_car_wagon                    :(Test Car)
-
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here
 STR_ERROR_NOT_ENOUGH_LENGTH4                        :It's too short. It should be equal or more than 4 cars at least.
