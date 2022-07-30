@@ -20,6 +20,8 @@ STR_KTX_EM_NAME                                     :[KTS+] KTX-Eum DD
 STR_KTX_N_NAME                                      :[KTS+] EMU-320 DD
 STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
 STR_NRT2_NAME                                       :[KTS+] Nuriro DD
+STR_Bicheuro2_NAME                                  :[KTS+] Bicheuro DUPLEX
+STR_H2_WJ_NAME                                      :[KTS+] H2 by WOOJIN
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] Passenger Car
@@ -35,9 +37,9 @@ STR_PARAM_High_SPEED_Train_430_NAME                 :High Speed Train Speed (430
 STR_PARAM_High_SPEED_Train_430_DESC                 :Adjust the speed of the high-speed train (Default:430km/h)
 
 # Refit (Additional text) Real Trian(BLUE), Test Train(YELLOW), Plan Train(PURPLE), Virtual Train(RED)
-STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-150, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320
 STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}GT26CW
 STR_REFIT_ADDITIONAL_GTX                            :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}GTX
 STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}HEMU-430X
@@ -48,14 +50,19 @@ STR_REFIT_ADDITIONAL_KTX_EM                         :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_KTX_N                          :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-320 DD
 STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}KTX-DD
 STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nuriro DD
+STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-320 DD
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration                       :{BLACK}train configuration: {GREEN}passenger vehicles
 
 # Liveries
-STR_REFIT_LIVERY_EMU150R                            :(EMU-150 Red Color)
-STR_REFIT_LIVERY_EMU150G                            :(EMU-150 Green Color)
-STR_REFIT_LIVERY_EMU150W                            :(EMU-150 White Color)
+STR_REFIT_LIVERY_EMU150R_1F                         :(EMU-150 1F Red Color)
+STR_REFIT_LIVERY_EMU150R_2F                         :(EMU-150 2F Red Color)
+STR_REFIT_LIVERY_EMU150G_1F                         :(EMU-150 1F Green Color)
+STR_REFIT_LIVERY_EMU150G_2F                         :(EMU-150 2F Green Color)
+STR_REFIT_LIVERY_EMU150W_1F                         :(EMU-150 1F White Color)
+STR_REFIT_LIVERY_EMU150W_2F                         :(EMU-150 2F White Color)
 STR_REFIT_LIVERY_EMU320                             :(EMU-320)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
 STR_REFIT_LIVERY_GT26CW_Korail                      :(Korail)
@@ -69,6 +76,9 @@ STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-DD White Color)
 STR_REFIT_LIVERY_NRT2_B                             :(Nuriro DD Blue Color)
 STR_REFIT_LIVERY_NRT2_G                             :(Nuriro DD Green Color)
 STR_REFIT_LIVERY_NRT2_W                             :(Nuriro DD White Color)
+STR_REFIT_LIVERY_Bicheuro2_R                        :(Bicheuro DUPLEX Red Color)
+STR_REFIT_LIVERY_Bicheuro2_G                        :(Bicheuro DUPLEX Green Color)
+STR_REFIT_LIVERY_Bicheuro2_W                        :(Bicheuro DUPLEX White Color)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

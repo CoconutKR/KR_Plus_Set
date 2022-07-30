@@ -2,11 +2,13 @@
 #include "wagon/passenger_wagon/passenger_wagon_all.pnml"
 
 //locomotive
+#include "locomotive/Bicheuro_DUPLEX/Bicheuro2.pnml"
 #include "locomotive/EMU/EMU150/EMU150.pnml"
 #include "locomotive/EMU/EMU260/EMU260.pnml"
 #include "locomotive/EMU/EMU320/EMU320.pnml"
 #include "locomotive/GT26CW/GT26CW.pnml"
 #include "locomotive/GTX/GTX.pnml"
+#include "locomotive/H2_WJ/H2_WJ.pnml"
 #include "locomotive/HEMU_430X/HEMU_430X.pnml"
 #include "locomotive/HSR_350X/HSR_350X.pnml"
 #include "locomotive/ITX_CW/ITX_CW.pnml"

@@ -57,7 +57,6 @@ item(FEAT_TRAINS, ITX_CW, 1070){
         cost_factor:                    10;
         running_cost_factor:            150;
         can_attach_wagon:               sw_ITX_CW_wagon_attach;
-        start_stop:                     sw_YST_train_start_stop_6;
         additional_text:                string(STR_REFIT_ADDITIONAL_ITX_CW);
         }
 
