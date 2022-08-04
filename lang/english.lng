@@ -26,6 +26,7 @@ STR_H2_WJ_NAME                                      :[KTS+] H2 by WOOJIN
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] Passenger transport vehicle
 STR_KTS_SPASS_NAME                                  :[KTS+] carriage-type passenger transport vehicle
+STR_Luggage_Car_NAME                                :[KTS+] Luggage Car
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :Regular Train Speed Variable
@@ -57,6 +58,7 @@ STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration: {GREEN}Passenger vehicles
 STR_REFIT_train_configuration_SPassenger            :{BLACK}train configuration: {GREEN}carriage-type Passenger vehicles
+STR_REFIT_train_configuration_Luggage               :{BLACK}train configuration: {GREEN}Luggage vehicles
 
 # Liveries
 STR_REFIT_LIVERY_EMU150R_1F                         :(EMU-150 1F Red Color)

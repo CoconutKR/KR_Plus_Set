@@ -19,4 +19,6 @@ sort(FEAT_TRAINS, [
     H2_WJ,                     //1118
     
     KTS_Passenger_Car,         //1061
+    KTS_SPassenger_Car,        //1112
+    Luggage_Car,               //1119
     ]);

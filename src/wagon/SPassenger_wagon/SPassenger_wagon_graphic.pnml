@@ -11,3 +11,10 @@ spriteset(set_Eco_Rail_wagon_purchase, "src\wagon\SPassenger_wagon\Eco_Rail_pass
 spriteset(set_Eco_Rail_wagon, "src\wagon\SPassenger_wagon\Eco_Rail_passenger_wagon.png") {
     wagon_1F_F(80, 0)
 }
+
+/*--------------------------------------------------------------------
+구매정보
+--------------------------------------------------------------------*/
+switch(FEAT_TRAINS, SELF, sw_Eco_Rail_wagon_purchase, cargo_subtype) {
+    set_Eco_Rail_wagon_purchase;
+}
