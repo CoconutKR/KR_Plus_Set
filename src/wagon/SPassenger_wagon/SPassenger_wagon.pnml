@@ -46,11 +46,13 @@ item (FEAT_TRAINS, KTS_SPassenger_Car, 1112){
 	}
 
     graphics {
-		default:						set_Eco_Rail_wagon;
-		purchase:						sw_Eco_Rail_wagon_purchase;
+		default:						sw_SPassenger_wagon;
+		purchase:						sw_SPassenger_wagon_purchase;
+        cargo_capacity:                 sw_SPassenger_wagon_capacity_in_custom;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            50;
+        cargo_subtype_text:             sw_SPassenger_cargo_subtype_text;
 		additional_text:                string(STR_REFIT_train_configuration_SPassenger);
         }
 	}

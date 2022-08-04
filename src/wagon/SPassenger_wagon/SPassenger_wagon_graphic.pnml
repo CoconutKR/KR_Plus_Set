@@ -1,20 +1,58 @@
 /*--------------------------------------------------------------------
 Graphics
 --------------------------------------------------------------------*/
-spriteset(set_Eco_Rail_wagon_purchase, "src\wagon\SPassenger_wagon\Eco_Rail_passenger_wagon.png"){
+spriteset(set_SPassenger_wagon_purchase, "src\wagon\SPassenger_wagon\SPassenger_wagon.png"){
 	tmpl_wagon_purchase(0, 0)
 }
 
 /*--------------------------------------------------------------------
 1. 객차형 수송 차량
 --------------------------------------------------------------------*/
-spriteset(set_Eco_Rail_wagon, "src\wagon\SPassenger_wagon\Eco_Rail_passenger_wagon.png") {
+spriteset(set_Eco_Rail_wagon, "src\wagon\SPassenger_wagon\SPassenger_wagon.png") {
     wagon_1F_F(80, 0)
+}
+
+/*--------------------------------------------------------------------
+2. 충북영동국악와인열차
+--------------------------------------------------------------------*/
+spriteset(set_CY_GW_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Chungbuk_Yeongdong_Gugak_&_Wine_Train.png") {
+    wagon_1F_F(19, 0)
+}
+
+spriteset(set_CY_GW_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Chungbuk_Yeongdong_Gugak_&_Wine_Train.png") {
+    wagon_1F_F(19, 27)
+}
+
+spriteset(set_CY_GW_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Chungbuk_Yeongdong_Gugak_&_Wine_Train.png") {
+    wagon_1F_F(19, 54)
+}
+
+spriteset(set_CY_GW_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Chungbuk_Yeongdong_Gugak_&_Wine_Train.png") {
+    wagon_1F_F(19, 81)
+}
+
+spriteset(set_CY_GW_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Chungbuk_Yeongdong_Gugak_&_Wine_Train.png") {
+    wagon_1F_F(19, 108)
+}
+
+spriteset(set_CY_GW_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Chungbuk_Yeongdong_Gugak_&_Wine_Train.png") {
+    wagon_1F_F(19, 135)
+}
+
+/*--------------------------------------------------------------------
+3. 정선아리랑 유람열차
+--------------------------------------------------------------------*/
+spriteset(set_JA_A_Old_wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Jeongseon_arirang.png") {
+    wagon_1F_F(104, 0)
+}
+
+spriteset(set_JA_A_New_wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Jeongseon_arirang.png") {
+    wagon_1F_F(104, 27)
 }
 
 /*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_Eco_Rail_wagon_purchase, cargo_subtype) {
-    set_Eco_Rail_wagon_purchase;
+switch(FEAT_TRAINS, SELF, sw_SPassenger_wagon_purchase, cargo_subtype) {
+    set_SPassenger_wagon_purchase;
 }

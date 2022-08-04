@@ -45,11 +45,12 @@ item(FEAT_TRAINS, Luggage_Car, 1119){
         }
 
 	graphics {
-        default:                        set_Eco_Rail_Luggage_Car;
+        default:                        sw_Luggage_wagon;
         purchase:                       sw_Luggage_Car_purchase;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            50;
+        cargo_subtype_text:             sw_Luggage_wagon_subtype_text;
         additional_text:                string(STR_REFIT_train_configuration_Luggage);
         }
         }
