@@ -22,6 +22,7 @@ STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
 STR_NRT2_NAME                                       :[KTS+] Nuriro DD
 STR_Bicheuro2_NAME                                  :[KTS+] Bicheuro DUPLEX
 STR_H2_WJ_NAME                                      :[KTS+] H2 by WOOJIN
+STR_Travel_8500_NAME                                :[KTS+] 관광열차 8500호대
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] Passenger transport vehicle
@@ -54,7 +55,8 @@ STR_REFIT_ADDITIONAL_KTX_N                          :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}KTX-DD
 STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nuriro DD
 STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-320 DD
+STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}H2 WJ
+STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}Travel 8500
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration: {GREEN}Passenger vehicles
@@ -96,6 +98,12 @@ STR_REFIT_LIVERY_JA_a_Old_Generatar_Car             :(Jeongseon Arirang Old Colo
 STR_REFIT_LIVERY_JA_a_New_Generatar_Car             :(Jeongseon Arirang New Color)
 STR_REFIT_LIVERY_Eco_Rail_Luggage_Car               :(Eco Rail Luggage Car)
 STR_REFIT_LIVERY_CY_GW_Luggage_Car                  :(Chungbuk Yeongdong Gugak & Wine Luggage Car)
+STR_REFIT_LIVERY_Travel_8500_A_train                :(A-Train)
+STR_REFIT_LIVERY_Travel_8500_G_train                :(G-Train)
+STR_REFIT_LIVERY_Travel_8500_S_train                :(S-Train)
+STR_REFIT_LIVERY_Travel_8500_V_train                :(V-Train)
+STR_REFIT_LIVERY_Travel_8500_Haerang_train          :(Haerang)
+STR_REFIT_LIVERY_Travel_8500_Wine_train             :(Wine)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

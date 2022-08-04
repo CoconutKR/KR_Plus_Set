@@ -17,6 +17,7 @@ sort(FEAT_TRAINS, [
     NRT2,                      //1075
     Bicheuro2,                 //1117
     H2_WJ,                     //1118
+    Travel_8500,               //1121
     
     KTS_Passenger_Car,         //1061
     KTS_SPassenger_Car,        //1112
