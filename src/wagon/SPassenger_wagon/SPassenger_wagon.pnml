@@ -1,17 +1,26 @@
 /*--------------------------------------------------------------------
-1층 공통객차
+객차형 승객 차량
 --------------------------------------------------------------------*/
-item (FEAT_TRAINS, KTS_Passenger_Car, 1061){
+// Graphics
+#include "SPassenger_wagon_graphic.pnml"
+
+// Switch
+#include "SPassenger_wagon_switch.pnml"
+
+/*--------------------------------------------------------------------
+객차형 승객 차량
+--------------------------------------------------------------------*/
+item (FEAT_TRAINS, KTS_SPassenger_Car, 1112){
     property {
-        name:                           string(STR_KTS_PASS_NAME);
+        name:                           string(STR_KTS_SPASS_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(2002, 1, 1);
+        introduction_date:              date(2010, 1, 1);
         track_type:                     RAIL;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
 
         //spec
         power:                          0 kW;
-        weight:                         15 ton;
+        weight:                         20 ton;
         tractive_effort_coefficient:    0.3;
 
         //Model
@@ -21,7 +30,7 @@ item (FEAT_TRAINS, KTS_Passenger_Car, 1061){
         reliability_decay:              0;
 
         //Cargo
-        cargo_capacity:                 50;
+        cargo_capacity:                 64;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
@@ -37,12 +46,11 @@ item (FEAT_TRAINS, KTS_Passenger_Car, 1061){
 	}
 
     graphics {
-		default:						sw_Passenge_wagon;
-		purchase:						set_wagon_purchase;
+		default:						set_Eco_Rail_wagon;
+		purchase:						set_Eco_Rail_wagon_purchase;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            50;
-        cargo_subtype_text:             sw_Passenger_wagon_cargo_subtype_text;
-		additional_text:                string(STR_REFIT_train_configuration_Passenger);
+		additional_text:                string(STR_REFIT_train_configuration_SPassenger);
         }
 	}
