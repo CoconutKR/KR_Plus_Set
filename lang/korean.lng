@@ -26,6 +26,7 @@ STR_H2_WJ_NAME                                      :[KTS+] 우진산전 수소�
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] 승객 수송 차량
 STR_KTS_SPASS_NAME                                  :[KTS+] 객차형 승객 수송 차량
+STR_Generatar_Car_NAME                              :[KTS+] 발전차
 STR_Luggage_Car_NAME                                :[KTS+] 수화물차
 
 # Parameters
@@ -58,6 +59,7 @@ STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration_Passenger             :{BLACK}열차구성: {GREEN}승객 차량용
 STR_REFIT_train_configuration_SPassenger            :{BLACK}열차구성: {GREEN}객차형 승객 차량용
+STR_REFIT_train_configuration_Generatar             :{BLACK}열차구성: {GREEN}발전차용
 STR_REFIT_train_configuration_Luggage               :{BLACK}열차구성: {GREEN}수화물차용
 
 # Liveries locomotive

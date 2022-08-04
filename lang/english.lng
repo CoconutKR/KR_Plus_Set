@@ -26,6 +26,7 @@ STR_H2_WJ_NAME                                      :[KTS+] H2 by WOOJIN
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] Passenger transport vehicle
 STR_KTS_SPASS_NAME                                  :[KTS+] carriage-type passenger transport vehicle
+STR_Generatar_Car_NAME                              :[KTS+] Generatar Car
 STR_Luggage_Car_NAME                                :[KTS+] Luggage Car
 
 # Parameters
@@ -58,6 +59,7 @@ STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration: {GREEN}Passenger vehicles
 STR_REFIT_train_configuration_SPassenger            :{BLACK}train configuration: {GREEN}carriage-type Passenger vehicles
+STR_REFIT_train_configuration_Generatar             :{BLACK}train configuration: {GREEN}Generatar vehicles
 STR_REFIT_train_configuration_Luggage               :{BLACK}train configuration: {GREEN}Luggage vehicles
 
 # Liveries
