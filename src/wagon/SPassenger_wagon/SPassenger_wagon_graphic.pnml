@@ -92,32 +92,59 @@ spriteset(set_EDUCATION_9wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train
 /*--------------------------------------------------------------------
 5. 와인인삼트레인
 --------------------------------------------------------------------*/
-spriteset(set_wine_Panax_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 0)
 }
 
-spriteset(set_wine_Panax_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 27)
 }
 
-spriteset(set_wine_Panax_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 54)
 }
 
-spriteset(set_wine_Panax_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 81)
 }
 
-spriteset(set_wine_Panax_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 108)
 }
 
-spriteset(set_wine_Panax_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 135)
 }
 
-spriteset(set_wine_Panax_7wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine Panax train.png") {
+spriteset(set_wine_Panax_7wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 162)
+}
+
+/*--------------------------------------------------------------------
+6. 와인시네마트레인
+--------------------------------------------------------------------*/
+spriteset(set_wine_cinema_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_cinema_train.png") {
+    wagon_1F_F(80, 0)
+}
+
+spriteset(set_wine_cinema_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_cinema_train.png") {
+    wagon_1F_F(80, 27)
+}
+
+spriteset(set_wine_cinema_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_cinema_train.png") {
+    wagon_1F_F(80, 54)
+}
+
+spriteset(set_wine_cinema_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_cinema_train.png") {
+    wagon_1F_F(80, 81)
+}
+
+spriteset(set_wine_cinema_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_cinema_train.png") {
+    wagon_1F_F(80, 108)
+}
+
+spriteset(set_wine_cinema_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_cinema_train.png") {
+    wagon_1F_F(80, 135)
 }
 
 /*--------------------------------------------------------------------
