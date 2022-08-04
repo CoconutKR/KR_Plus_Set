@@ -51,6 +51,45 @@ spriteset(set_JA_A_New_wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Jeongseon
 }
 
 /*--------------------------------------------------------------------
+4. E-train
+--------------------------------------------------------------------*/
+spriteset(set_EDUCATION_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 0)
+}
+
+spriteset(set_EDUCATION_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 27)
+}
+
+spriteset(set_EDUCATION_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 54)
+}
+
+spriteset(set_EDUCATION_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 81)
+}
+
+spriteset(set_EDUCATION_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 108)
+}
+
+spriteset(set_EDUCATION_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 135)
+}
+
+spriteset(set_EDUCATION_7wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 162)
+}
+
+spriteset(set_EDUCATION_8wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 189)
+}
+
+spriteset(set_EDUCATION_9wagon, "src\wagon\SPassenger_wagon\Travel_wagon\E_Train.png") {
+    wagon_1F_F(17, 216)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_SPassenger_wagon_purchase, cargo_subtype) {
