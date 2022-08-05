@@ -14,20 +14,20 @@ switch(FEAT_TRAINS, SELF, sw_SPassenger_cargo_subtype_text, cargo_subtype) {
 /*--------------------------------------------------------------------
 1. 충북영동국악와인 열차
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_CY_GW_wagon, (position_in_consist % 6)) {
+switch(FEAT_TRAINS, SELF, sw_CY_GW_wagon, position_in_consist % 6) {
     1: set_CY_GW_1wagon;
     2: set_CY_GW_2wagon;
     3: set_CY_GW_3wagon;
     4: set_CY_GW_4wagon;
     5: set_CY_GW_5wagon;
-    6: set_CY_GW_6wagon;
-    set_CY_GW_1wagon;
+    0: set_CY_GW_6wagon;
+    set_CY_GW_4wagon;
 }
 
 /*--------------------------------------------------------------------
 2. E-Trian
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_E_Train_wagon, (position_in_consist) % 9) {
+switch(FEAT_TRAINS, SELF, sw_E_Train_wagon, position_in_consist % 9) {
     1: set_EDUCATION_1wagon;
     2: set_EDUCATION_2wagon;
     3: set_EDUCATION_3wagon;
@@ -36,35 +36,35 @@ switch(FEAT_TRAINS, SELF, sw_E_Train_wagon, (position_in_consist) % 9) {
     6: set_EDUCATION_6wagon;
     7: set_EDUCATION_7wagon;
     8: set_EDUCATION_8wagon;
-    9: set_EDUCATION_9wagon;
-    set_EDUCATION_2wagon;
+    0: set_EDUCATION_9wagon;
+    set_EDUCATION_4wagon;
 }
 
 /*--------------------------------------------------------------------
 3. 와인인삼트레인
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_wine_Panax_wagon, (position_in_consist) % 7) {
+switch(FEAT_TRAINS, SELF, sw_wine_Panax_wagon, position_in_consist % 7) {
     1: set_wine_Panax_1wagon;
     2: set_wine_Panax_2wagon;
     3: set_wine_Panax_3wagon;
     4: set_wine_Panax_4wagon;
     5: set_wine_Panax_5wagon;
     6: set_wine_Panax_6wagon;
-    7: set_wine_Panax_7wagon;
-    set_wine_Panax_1wagon;
+    0: set_wine_Panax_7wagon;
+    set_wine_Panax_4wagon;
 }
 
 /*--------------------------------------------------------------------
 4. 와인시네마트레인
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_wine_cinema_wagon, (position_in_consist) % 6) {
+switch(FEAT_TRAINS, SELF, sw_wine_cinema_wagon, position_in_consist % 6) {
     1: set_wine_cinema_1wagon;
     2: set_wine_cinema_2wagon;
     3: set_wine_cinema_3wagon;
     4: set_wine_cinema_4wagon;
     5: set_wine_cinema_5wagon;
-    6: set_wine_cinema_6wagon;
-    set_wine_cinema_1wagon;
+    0: set_wine_cinema_6wagon;
+    set_wine_cinema_4wagon;
 }
 
 /*--------------------------------------------------------------------
