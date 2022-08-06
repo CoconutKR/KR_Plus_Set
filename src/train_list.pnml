@@ -22,5 +22,8 @@
 #include "locomotive/NRT2/NRT2.pnml"
 #include "locomotive/Travel_8500/Travel_8500.pnml"
 
+//Metro
+#include "metro/standard/Standard.pnml"
+
 // Sorting
 #include "sort.pnml"

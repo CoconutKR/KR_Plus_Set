@@ -24,6 +24,9 @@ STR_Bicheuro2_NAME                                  :[KTS+] 비츠로 DUPLEX
 STR_H2_WJ_NAME                                      :[KTS+] 우진산전 수소연료전지동차
 STR_Travel_8500_NAME                                :[KTS+] 관광열차 8500호대
 
+# Metro's name
+STR_Standard_Metro_NAME                             :[KTS+] 한국형 표준전동차
+
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] 승객 수송 차량
 STR_KTS_SPASS_NAME                                  :[KTS+] 객차형 승객 수송 차량
@@ -57,6 +60,7 @@ STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320
 STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}H2 WJ
 STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}관광열차 8500
+STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{RED}불가능
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration_Passenger             :{BLACK}열차구성: {GREEN}승객 차량용
@@ -110,6 +114,10 @@ STR_REFIT_LIVERY_Travel_8500_S_train                :(S-Train)
 STR_REFIT_LIVERY_Travel_8500_V_train                :(V-Train)
 STR_REFIT_LIVERY_Travel_8500_Haerang_train          :(Haerang)
 STR_REFIT_LIVERY_Travel_8500_Wine_train             :(Wine)
+
+# Liveries metro
+STR_REFIT_LIVERY_Standard_Metro_Long_Seat           :(롱 시트)
+STR_REFIT_LIVERY_Standard_Metro_Cross_Seat          :(크로스 시트)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다

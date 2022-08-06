@@ -18,6 +18,7 @@ sort(FEAT_TRAINS, [
     Bicheuro2,                 //1117
     H2_WJ,                     //1118
     Travel_8500,               //1121
+    Standard_Metro,            //1122
     
     KTS_Passenger_Car,         //1061
     KTS_SPassenger_Car,        //1112
