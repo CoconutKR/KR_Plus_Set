@@ -23,7 +23,7 @@
 #include "locomotive/Travel_8500/Travel_8500.pnml"
 
 //Metro
-#include "metro/AUST/AUST.pnml"
+#include "metro/AUTS/AUTS.pnml"
 #include "metro/standard/Standard.pnml"
 
 // Sorting

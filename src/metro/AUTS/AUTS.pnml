@@ -2,17 +2,17 @@
 YTRO 100
 --------------------------------------------------------------------*/
 // Graphics
-#include "AUST_graphic.pnml"
+#include "AUTS_graphic.pnml"
 
 // Switch
-#include "AUST_switch.pnml"
+#include "AUTS_switch.pnml"
 
 /*--------------------------------------------------------------------
 열차정보
 --------------------------------------------------------------------*/
-item(FEAT_TRAINS, AUST, 1123){
+item(FEAT_TRAINS, AUTS, 1123){
     property {
-        name:                           string(STR_AUST_NAME);
+        name:                           string(STR_AUTS_NAME);
         climates_available:             ALL_CLIMATES;
         introduction_date:              date(2010, 1, 1);
         track_type:                     ELRL;
@@ -50,17 +50,17 @@ item(FEAT_TRAINS, AUST, 1123){
         }
 
 	graphics {
-        default:                        sw_AUST_engine;
-        purchase:                       sw_AUST_purchase;
+        default:                        sw_AUTS_engine;
+        purchase:                       sw_AUTS_purchase;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;
-        can_attach_wagon:               sw_AUST_wagon_attach;
-        additional_text:                string(STR_REFIT_ADDITIONAL_AUST);
+        can_attach_wagon:               sw_AUTS_wagon_attach;
+        additional_text:                string(STR_REFIT_ADDITIONAL_AUTS);
         }
 
     livery_override(KTS_Passenger_Car) {
-        default:                        sw_AUST_wagon_length;
+        default:                        sw_AUTS_wagon;
         loading_speed:                  25;
         running_cost_factor:            100;
         }

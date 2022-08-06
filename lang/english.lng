@@ -26,7 +26,7 @@ STR_Travel_8500_NAME                                :[KTS+] Travel 8500
 
 # Metro's name
 STR_Standard_Metro_NAME                             :[KTS+] Standard Metro
-STR_AUST_NAME                                       :[KTS+] AUST
+STR_AUTS_NAME                                       :[KTS+] AUTS
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] Passenger transport vehicle
@@ -62,7 +62,7 @@ STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}H2 WJ
 STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}Travel 8500
 STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_AUST                           :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_AUTS                           :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration: {GREEN}Passenger vehicles

@@ -74,6 +74,10 @@ spriteset(set_JA_A_New_wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Jeongseon
     wagon_1F_F(104, 27)
 }
 
+alternative_sprites(set_JA_A_New_wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\wagon\SPassenger_wagon\Travel_wagon\Jeongseon_arirang_New_32bpp.png"){
+    wagon_1F_F(0, 0)
+}
+
 /*--------------------------------------------------------------------
 4. E-train
 --------------------------------------------------------------------*/
@@ -126,6 +130,10 @@ spriteset(set_wine_Panax_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_P
 
 spriteset(set_wine_Panax_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
     wagon_1F_F(80, 54)
+}
+
+alternative_sprites(set_wine_Panax_3wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train_3wagon_32bpp.png"){
+    wagon_1F_F(0, 0)
 }
 
 spriteset(set_wine_Panax_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_Panax_train.png") {
