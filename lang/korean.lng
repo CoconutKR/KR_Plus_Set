@@ -26,6 +26,7 @@ STR_Travel_8500_NAME                                :[KTS+] 관광열차 8500호
 
 # Metro's name
 STR_Standard_Metro_NAME                             :[KTS+] 한국형 표준전동차
+STR_AUST_NAME                                       :[KTS+] AUST
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KTS+] 승객 수송 차량
@@ -61,6 +62,7 @@ STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}H2 WJ
 STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}관광열차 8500
 STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{RED}불가능
+STR_REFIT_ADDITIONAL_AUST                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{RED}불가능
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration_Passenger             :{BLACK}열차구성: {GREEN}승객 차량용

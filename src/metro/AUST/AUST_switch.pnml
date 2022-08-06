@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------------
+스위치
+--------------------------------------------------------------------*/
+switch(FEAT_TRAINS, SELF, sw_AUST_engine, position_in_consist_from_end == 0 && num_vehs_in_consist > 1){
+    1: set_AUST_engineT;
+    set_AUST_engineH;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon, position_in_consist) {
+    1: set_AUST_wagon_r;
+    set_AUST_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_4car, [STORE_TEMP(-1, 0x10F), var[0x61, 0, 0x0000FFFF, 0xC6]]) {
+    AUST: set_AUST_panto_wagon;
+    sw_AUST_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_6car_rear, [STORE_TEMP(1, 0x10F), var[0x61, 0, 0x0000FFFF, 0xC6]]){
+    AUST: set_AUST_panto_wagon;
+    sw_AUST_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_6car, [STORE_TEMP(-1, 0x10F), var[0x61, 0, 0x0000FFFF, 0xC6]]) {
+    AUST: set_AUST_panto_wagon;
+    sw_AUST_wagon_6car_rear;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_10car_rear, [STORE_TEMP(2, 0x10F), var[0x61, 0, 0x0000FFFF, 0xC6]]){
+    AUST: set_AUST_panto_wagon;
+    sw_AUST_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_10car, [STORE_TEMP(-2, 0x10F), var[0x61, 0, 0x0000FFFF, 0xC6]]) {
+    AUST: set_AUST_panto_wagon;
+    sw_AUST_wagon_10car_rear;
+}
+
+// wagon length
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_length, num_vehs_in_consist) {
+    4:  sw_AUST_wagon_6car;
+    6:  sw_AUST_wagon_6car;
+    10: sw_AUST_wagon_10car;
+    sw_AUST_wagon_10car;
+}
+
+switch(FEAT_TRAINS, SELF, sw_AUST_wagon_attach, vehicle_type_id) {
+    KTS_Passenger_Car:   return CB_RESULT_ATTACH_ALLOW;
+    return string(STR_ERROR_NO_ATTACH);
+}
