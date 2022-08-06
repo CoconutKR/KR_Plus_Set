@@ -17,7 +17,6 @@ item(FEAT_TRAINS, Generatar_Car, 1120){
         introduction_date:              date(2004, 1, 1);
         track_type:                     RAIL;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
-        length:                         7;
         
         //spec
         power:                          0 kW;
@@ -49,6 +48,7 @@ item(FEAT_TRAINS, Generatar_Car, 1120){
 	graphics {
         default:                        sw_Generatar_wagon;
         purchase:                       sw_Generatar_Car_purchase;
+        length:                         sw_Generatar_wagon_length_in_custom;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            50;

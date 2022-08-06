@@ -180,6 +180,45 @@ spriteset(set_wine_cinema_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\wine_
 }
 
 /*--------------------------------------------------------------------
+7. 레이디 버드
+--------------------------------------------------------------------*/
+spriteset(set_Lady_Bird_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 0)
+}
+
+spriteset(set_Lady_Bird_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 27)
+}
+
+spriteset(set_Lady_Bird_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 54)
+}
+
+spriteset(set_Lady_Bird_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 81)
+}
+
+spriteset(set_Lady_Bird_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 108)
+}
+
+spriteset(set_Lady_Bird_6wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 135)
+}
+
+spriteset(set_Lady_Bird_7wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 162)
+}
+
+spriteset(set_Lady_Bird_8wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 189)
+}
+
+spriteset(set_Lady_Bird_9wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybird.png") {
+    wagon_1F_F(18, 216)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_SPassenger_wagon_purchase, cargo_subtype) {
