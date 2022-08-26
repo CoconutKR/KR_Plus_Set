@@ -43,11 +43,11 @@ switch(FEAT_TRAINS, SELF, sw_EMU150_panto_wagon, cargo_subtype) {
 }
 
 switch(FEAT_TRAINS, SELF, sw_EMU150_panto_wagon_r, cargo_subtype) {
-    1: set_EMU150G_1F_panto_wagon_r; // 1층 녹색
-    2: set_EMU150W_1F_panto_wagon_r; // 1층 하양
-    3: set_EMU150R_1F_panto_wagon_r;   // 2층 빨강 (1층 빨강 동일)
-    4: set_EMU150G_1F_panto_wagon_r;   // 2층 녹색 (1층 녹색 동일)
-    5: set_EMU150W_1F_panto_wagon_r;   // 2층 하양 (1층 하양 동일)
+    1: set_EMU150G_1F_panto_wagon_r;  // 1층 녹색
+    2: set_EMU150W_1F_panto_wagon_r;  // 1층 하양
+    3: set_EMU150R_1F_panto_wagon_r;  // 2층 빨강 (1층 빨강 동일)
+    4: set_EMU150G_1F_panto_wagon_r;  // 2층 녹색 (1층 녹색 동일)
+    5: set_EMU150W_1F_panto_wagon_r;  // 2층 하양 (1층 하양 동일)
     set_EMU150R_1F_panto_wagon_r;
 }
 

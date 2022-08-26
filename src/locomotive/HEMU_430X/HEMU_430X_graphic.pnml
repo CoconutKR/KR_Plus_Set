@@ -13,28 +13,28 @@ spriteset(set_HEMU_430X_engineH, "src/locomotive/HEMU_430X/HEMU_430X.png"){
     engine(80, 0)
 }
 
-spriteset(set_HEMU_430X_wagon_start, "src/locomotive/HEMU_430X/HEMU_430X.png"){
-    wagon_panto(80, 27)
+spriteset(set_HEMU_430X_panto_wagon, "src/locomotive/HEMU_430X/HEMU_430X.png"){
+    wagon_1F_F(80, 27)
 }
 
 spriteset(set_HEMU_430X_wagon_bar, "src/locomotive/HEMU_430X/HEMU_430X.png") {
     wagon_1F_F(80, 54)
 }
 
-spriteset(set_HEMU_430X_wagon, "src/locomotive/HEMU_430X/HEMU_430X.png") {
-    wagon_1F(80, 81)
+spriteset(set_HEMU_430X_2F_wagon, "src/locomotive/HEMU_430X/HEMU_430X.png") {
+    wagon_1F_F(80, 81)
 }
 
-spriteset(set_HEMU_430X_wagon_r, "src/locomotive/HEMU_430X/HEMU_430X.png") {
-    wagon_1F_r(80, 81)
+spriteset(set_HEMU_430X_1F_wagon, "src/locomotive/HEMU_430X/HEMU_430X.png") {
+    wagon_1F_F(80, 108)
 }
 
-spriteset(set_HEMU_430X_wagon_end, "src/locomotive/HEMU_430X/HEMU_430X.png"){
-    wagon_panto(80, 108)
+spriteset(set_HEMU_430X_panto_wagon_r, "src/locomotive/HEMU_430X/HEMU_430X.png"){
+    wagon_1F_F(80, 135)
 }
 
 spriteset(set_HEMU_430X_engineT, "src/locomotive/HEMU_430X/HEMU_430X.png"){
-    engine_r(80, 135)
+    engine_r(80, 162)
 }
 
 /*--------------------------------------------------------------------

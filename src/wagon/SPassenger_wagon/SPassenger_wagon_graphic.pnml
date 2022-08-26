@@ -219,6 +219,29 @@ spriteset(set_Lady_Bird_9wagon, "src\wagon\SPassenger_wagon\Travel_wagon\Ladybir
 }
 
 /*--------------------------------------------------------------------
+8. S-Train 신도색
+--------------------------------------------------------------------*/
+spriteset(set_S_Train_New_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\S_Train_New.png") {
+    wagon_1F_F(0, 0)
+}
+
+spriteset(set_S_Train_New_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\S_Train_New.png") {
+    wagon_1F_F(0, 27)
+}
+
+spriteset(set_S_Train_New_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\S_Train_New.png") {
+    wagon_1F_F(0, 54)
+}
+
+spriteset(set_S_Train_New_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\S_Train_New.png") {
+    wagon_1F_F(0, 81)
+}
+
+spriteset(set_S_Train_New_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\S_Train_New.png") {
+    wagon_1F_F(0, 108)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_SPassenger_wagon_purchase, cargo_subtype) {
