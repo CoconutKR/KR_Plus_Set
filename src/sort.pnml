@@ -2,6 +2,7 @@
 정렬
 --------------------------------------------------------------------*/
 sort(FEAT_TRAINS, [
+    CTX,                       //1132
     EMU150,                    //1063
     EMU260,                    //1064
     EMU320,                    //1065
@@ -13,11 +14,13 @@ sort(FEAT_TRAINS, [
     ITX_SM2,                   //1071
     KTX_EM,                    //1072
     KTX_N,                     //1073
+    KTX_SC,                    //1131
     KTX_SC2,                   //1074
     NRT2,                      //1075
     Bicheuro2,                 //1117
     H2_WJ,                     //1118
     Travel_8500,               //1121
+    VHST_600X,                 //1135
     Standard_Metro,            //1122
     AUTS,                      //1123
     
@@ -25,4 +28,5 @@ sort(FEAT_TRAINS, [
     KTS_SPassenger_Car,        //1112
     Generatar_Car,             //1120
     Luggage_Car,               //1119
+    CTX_Freight_Car,           //1133
     ]);
