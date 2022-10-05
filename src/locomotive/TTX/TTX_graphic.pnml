@@ -21,11 +21,11 @@ spriteset(set_TTX_wagon, "src/locomotive/TTX/TTX.png") {
 }
 
 spriteset(set_TTX_wagon_r, "src/locomotive/TTX/TTX.png") {
-    wagon_1F_r(80, 27)
+    wagon_1F_r(80, 54)
 }
 
 spriteset(set_TTX_engineT, "src/locomotive/TTX/TTX.png"){
-    engine_r(80, 54)
+    engine_r(80, 81)
 }
 
 /*--------------------------------------------------------------------
