@@ -17,6 +17,10 @@ spriteset(set_HSR_350X_wagon_start, "src/locomotive/HSR_350X/HSR_350X.png"){
     wagon_start(80, 27)
 }
 
+spriteset(set_HSR_350X_wagon_end, "src/locomotive/HSR_350X/HSR_350X.png"){
+    wagon_1F_F_r(80, 27)
+}
+
 spriteset(set_HSR_350X_wagon_TT2, "src/locomotive/HSR_350X/HSR_350X.png") {
     wagon_1F_F(80, 54)
 }
@@ -29,8 +33,8 @@ spriteset(set_HSR_350X_wagon_TT4, "src/locomotive/HSR_350X/HSR_350X.png") {
     wagon_1F_F(80, 108)
 }
 
-spriteset(set_HSR_350X_wagon_end, "src/locomotive/HSR_350X/HSR_350X.png"){
-    wagon_start(80, 135)
+spriteset(set_HSR_350X_wagon_TM5, "src/locomotive/HSR_350X/HSR_350X.png") {
+    wagon_1F_F(80, 135)
 }
 
 spriteset(set_HSR_350X_engineT, "src/locomotive/HSR_350X/HSR_350X.png"){
