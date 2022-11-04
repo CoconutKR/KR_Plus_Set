@@ -10,15 +10,15 @@ STR_GRF_URL                                      :https://github.com/GBLINER/Kor
 STR_CTX_NAME                                        :[KTS+] CTX
 STR_EMU150_NAME                                     :[KTS+] EMU-150
 STR_EMU260_NAME                                     :[KTS+] EMU-260
+STR_EMU260_DD_NAME                                  :[KTS+] EMU-260 DD
 STR_EMU320_NAME                                     :[KTS+] EMU-320
+STR_EMU320_DD_NAME                                  :[KTS+] EMU-320 DD
 STR_GT26CW_NAME                                     :[KTS+] GT26CW
 STR_GTX_NAME                                        :[KTS+] GTX
 STR_HEMU_430X_NAME                                  :[KTS+] HEMU-430X
 STR_HSR_350X_NAME                                   :[KTS+] HSR-350X
 STR_ICE_CW_NAME                                     :[KTS+] ITX-초월
 STR_ITX_SM2_NAME                                    :[KTS+] ITX-새마을 DD
-STR_KTX_EM_NAME                                     :[KTS+] KTX-이음 DD
-STR_KTX_N_NAME                                      :[KTS+] EMU-320 DD
 STR_KTX_SC_NAME                                     :[KTS+] KTX-산천
 STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
 STR_NRT2_NAME                                       :[KTS+] 누리로 DD
@@ -51,21 +51,21 @@ STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 �
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
 STR_REFIT_ADDITIONAL_CTX                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
-STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320
-STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
+STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
+STR_REFIT_ADDITIONAL_EMU260_DD                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
+STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
+STR_REFIT_ADDITIONAL_EMU320_DD                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
 STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}GT26CW
 STR_REFIT_ADDITIONAL_GTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}GTX
 STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HEMU-430X
 STR_REFIT_ADDITIONAL_HSR_350X                       :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HSR-350X
 STR_REFIT_ADDITIONAL_ITX_CW                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}ITX-초월
 STR_REFIT_ADDITIONAL_ITX_SM2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}ITX-새마을 DD
-STR_REFIT_ADDITIONAL_KTX_EM                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}KTX-이음 DD
-STR_REFIT_ADDITIONAL_KTX_N                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-320 DD
 STR_REFIT_ADDITIONAL_KTX_SC                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
 STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
 STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}누리로 DD
-STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320
+STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
 STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}H2 WJ
 STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}관광열차 8500
 STR_REFIT_ADDITIONAL_TTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}TTX
@@ -89,8 +89,13 @@ STR_REFIT_LIVERY_EMU150G_1F                         :(EMU-150 1층 녹색도색)
 STR_REFIT_LIVERY_EMU150G_2F                         :(EMU-150 2층 녹색도색)
 STR_REFIT_LIVERY_EMU150W_1F                         :(EMU-150 1층 흰색도색)
 STR_REFIT_LIVERY_EMU150W_2F                         :(EMU-150 2층 흰색도색)
-STR_REFIT_LIVERY_EMU320                             :(EMU-320 회사색상)
+STR_REFIT_LIVERY_EMU260W                            :(EMU-260 흰색도색)
+STR_REFIT_LIVERY_EMU260BK                           :(EMU-260 검정도색)
+STR_REFIT_LIVERY_EMU260MD                           :(HEMU-250 초기도색)
+STR_REFIT_LIVERY_EMU320_CC                          :(EMU-320 회사색상)
+STR_REFIT_LIVERY_EMU320_BK                          :(EMU-320 검정도색)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
+STR_REFIT_LIVERY_EMU320_SRT2                        :(EMU-320 SRT2)
 STR_REFIT_LIVERY_GT26CW_Korail                      :(코레일)
 STR_REFIT_LIVERY_GT26CW_CL                          :(철도청)
 STR_REFIT_LIVERY_GT26CW_CY_GW                       :(충북영동국악와인)
