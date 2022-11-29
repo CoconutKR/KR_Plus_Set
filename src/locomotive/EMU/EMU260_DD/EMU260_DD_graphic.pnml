@@ -5,6 +5,10 @@ spriteset(set_EMU260_DD_purchase, "src/locomotive/EMU/EMU260_DD/EMU260_DD.png"){
     tmpl_purchase(0, 0)
 }
 
+alternative_sprites(set_EMU260_DD_purchase, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/locomotive/EMU/EMU260_DD/EMU260_DD_32bpp.png"){
+    tmpl_purchase(0, 0)
+}
+
 /*--------------------------------------------------------------------
 EMU260_DD
 --------------------------------------------------------------------*/

@@ -144,6 +144,52 @@ spriteset(set_NRT2_New_W_engineT, "src/locomotive/NRT2/NRT2_New_W.png"){
 }
 
 /*--------------------------------------------------------------------
+6. NRT2 New ITX
+--------------------------------------------------------------------*/
+spriteset(set_NRT2_New_ITXH_purchase, "src/locomotive/NRT2/NRT2_New_ITX.png"){
+    tmpl_purchase_for_dualhead(0, 54)
+}
+
+spriteset(set_NRT2_New_ITX_engineH, "src/locomotive/NRT2/NRT2_New_ITX.png"){
+    engine(80, 0)
+}
+
+spriteset(set_NRT2_New_ITX_wagon, "src/locomotive/NRT2/NRT2_New_ITX.png") {
+    wagon_1F(80, 27)
+}
+
+spriteset(set_NRT2_New_ITX_wagon_r, "src/locomotive/NRT2/NRT2_New_ITX.png") {
+    wagon_1F_r(80, 27)
+}
+
+spriteset(set_NRT2_New_ITX_engineT, "src/locomotive/NRT2/NRT2_New_ITX.png"){
+    engine_r(80, 54)
+}
+
+/*--------------------------------------------------------------------
+6. NRT2 Old OT
+--------------------------------------------------------------------*/
+spriteset(set_NRT2_Old_OTH_purchase, "src/locomotive/NRT2/NRT2_Old_OT.png"){
+    tmpl_purchase_for_dualhead(0, 54)
+}
+
+spriteset(set_NRT2_Old_OT_engineH, "src/locomotive/NRT2/NRT2_Old_OT.png"){
+    engine(80, 0)
+}
+
+spriteset(set_NRT2_Old_OT_wagon, "src/locomotive/NRT2/NRT2_Old_OT.png") {
+    wagon_1F(80, 27)
+}
+
+spriteset(set_NRT2_Old_OT_wagon_r, "src/locomotive/NRT2/NRT2_Old_OT.png") {
+    wagon_1F_r(80, 27)
+}
+
+spriteset(set_NRT2_Old_OT_engineT, "src/locomotive/NRT2/NRT2_Old_OT.png"){
+    engine_r(80, 54)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_NRT2_purchase, cargo_subtype) {

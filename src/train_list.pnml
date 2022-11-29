@@ -6,6 +6,7 @@
 #include "wagon/CTX_Freight_Car/CTX_Freight_Car.pnml"
 
 //locomotive
+#include "locomotive/AREX/AREX.pnml"
 #include "locomotive/Bicheuro_DUPLEX/Bicheuro2.pnml"
 #include "locomotive/CTX/CTX.pnml"
 #include "locomotive/EMU/EMU150/EMU150.pnml"

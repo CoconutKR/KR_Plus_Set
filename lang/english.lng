@@ -7,6 +7,7 @@ STR_GRF_DESC                                     :{BLACK}The Korean Train Set+ A
 STR_GRF_URL                                      :https://github.com/GBLINER/KoreanTrainSet_Plus
 
 # locomotive's name
+STR_AREX_NAME                                       :[KTS+] AREX series 2000 EMU5
 STR_CTX_NAME                                        :[KTS+] CTX
 STR_EMU150_NAME                                     :[KTS+] EMU-150
 STR_EMU260_NAME                                     :[KTS+] EMU-260
@@ -50,6 +51,7 @@ STR_PARAM_High_SPEED_Train_430_NAME                 :High Speed Train Speed (430
 STR_PARAM_High_SPEED_Train_430_DESC                 :Adjust the speed of the high-speed train (Default:430km/h)
 
 # Refit (Additional text) Real Trian(BLUE), Test Train(YELLOW), Plan Train(PURPLE), Virtual Train(RED)
+STR_REFIT_ADDITIONAL_AREX                           :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}AREX
 STR_REFIT_ADDITIONAL_CTX                            :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}CTX, [KTS+]KTX-Sancheon, KTX-DD
 STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
 STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}EMU-150, Bicheuro DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
@@ -92,6 +94,9 @@ STR_REFIT_LIVERY_EMU150W_2F                         :(EMU-150 2F White Color)
 STR_REFIT_LIVERY_EMU260W                            :(EMU-260 White Livery)
 STR_REFIT_LIVERY_EMU260BK                           :(EMU-260 Black Livery)
 STR_REFIT_LIVERY_EMU260MD                           :(HEMU-250 Prototype Livery)
+STR_REFIT_LIVERY_EMU260SM1                          :(EMU-260 Saemaeul First Livery)
+STR_REFIT_LIVERY_EMU260SM2                          :(EMU-260 Saemaeul Second Livery)
+STR_REFIT_LIVERY_EMU260SM3                          :(EMU-260 Saemaeul Third Livery)
 STR_REFIT_LIVERY_EMU320_CC                          :(EMU-320 Company Colour)
 STR_REFIT_LIVERY_EMU320_BK                          :(EMU-320 Black Livery)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
@@ -119,6 +124,8 @@ STR_REFIT_LIVERY_NRT2_Old_G                         :(Nuriro DD Old Green Color)
 STR_REFIT_LIVERY_NRT2_New_G                         :(Nuriro DD New Green Color)
 STR_REFIT_LIVERY_NRT2_Old_W                         :(Nuriro DD Old White Color)
 STR_REFIT_LIVERY_NRT2_New_W                         :(Nuriro DD New White Color)
+STR_REFIT_LIVERY_NRT2_Old_OT                        :(Nuriro DD O-train Livery)
+STR_REFIT_LIVERY_NRT2_New_ITX                       :(Nuriro DD ITX Livery)
 STR_REFIT_LIVERY_Bicheuro2_R                        :(Bicheuro DUPLEX Red Color)
 STR_REFIT_LIVERY_Bicheuro2_G                        :(Bicheuro DUPLEX Green Color)
 STR_REFIT_LIVERY_Bicheuro2_W                        :(Bicheuro DUPLEX White Color)

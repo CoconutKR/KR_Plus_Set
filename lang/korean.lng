@@ -7,6 +7,7 @@ STR_GRF_DESC                                     :{BLACK}한국 열차 세트+ �
 STR_GRF_URL                                      :https://github.com/GBLINER/KoreanTrainSet_Plus
 
 # locomotive's name
+STR_AREX_NAME                                       :[KTS+] 공항철도 2000호대 4차분
 STR_CTX_NAME                                        :[KTS+] CTX
 STR_EMU150_NAME                                     :[KTS+] EMU-150
 STR_EMU260_NAME                                     :[KTS+] EMU-260
@@ -50,6 +51,7 @@ STR_PARAM_High_SPEED_Train_430_NAME                 :고속열차 속도변수 (
 STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 조정합니다. (기본:430km/h)
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
+STR_REFIT_ADDITIONAL_AREX                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}AREX
 STR_REFIT_ADDITIONAL_CTX                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
 STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
 STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
@@ -92,6 +94,9 @@ STR_REFIT_LIVERY_EMU150W_2F                         :(EMU-150 2층 흰색도색)
 STR_REFIT_LIVERY_EMU260W                            :(EMU-260 흰색도색)
 STR_REFIT_LIVERY_EMU260BK                           :(EMU-260 검정도색)
 STR_REFIT_LIVERY_EMU260MD                           :(HEMU-250 초기도색)
+STR_REFIT_LIVERY_EMU260SM1                          :(EMU-260 새마을 초기 도색)
+STR_REFIT_LIVERY_EMU260SM2                          :(EMU-260 새마을 중기 도색)
+STR_REFIT_LIVERY_EMU260SM3                          :(EMU-260 새마을 후기 도색)
 STR_REFIT_LIVERY_EMU320_CC                          :(EMU-320 회사색상)
 STR_REFIT_LIVERY_EMU320_BK                          :(EMU-320 검정도색)
 STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
@@ -119,6 +124,8 @@ STR_REFIT_LIVERY_NRT2_Old_G                         :(누리로 DD 구도색 녹
 STR_REFIT_LIVERY_NRT2_New_G                         :(누리로 DD 신도색 녹색)
 STR_REFIT_LIVERY_NRT2_Old_W                         :(누리로 DD 구도색 흰색)
 STR_REFIT_LIVERY_NRT2_New_W                         :(누리로 DD 신도색 흰색)
+STR_REFIT_LIVERY_NRT2_Old_OT                        :(누리로 DD O-train 도색)
+STR_REFIT_LIVERY_NRT2_New_ITX                       :(누리로 DD ITX 도색)
 STR_REFIT_LIVERY_Bicheuro2_R                        :(비츠로 DUPLEX 빨강도색)
 STR_REFIT_LIVERY_Bicheuro2_G                        :(비츠로 DUPLEX 녹색도색)
 STR_REFIT_LIVERY_Bicheuro2_W                        :(비츠로 DUPLEX 흰색도색)
