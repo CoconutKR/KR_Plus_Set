@@ -2,43 +2,43 @@
 ##gender m f
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :한국 열차 세트+ 애드온 v{VERSION}
-STR_GRF_DESC                                     :{BLACK}한국 열차 세트+ 애드온은 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차와 가상의 2층열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다. {}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작: 경부라이너
+STR_GRF_NAME_WITH_VER                            :KR+Set v{VERSION}
+STR_GRF_DESC                                     :{BLACK}KR+Set은 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차와 가상의 한국형 열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다. {}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작:Coconut
 STR_GRF_URL                                      :https://github.com/GBLINER/KoreanTrainSet_Plus
 
 # locomotive's name
-STR_AREX_NAME                                       :[KTS+] 공항철도 2000호대 4차분
-STR_CTX_NAME                                        :[KTS+] CTX
-STR_EMU150_NAME                                     :[KTS+] EMU-150
-STR_EMU260_NAME                                     :[KTS+] EMU-260
-STR_EMU260_DD_NAME                                  :[KTS+] EMU-260 DD
-STR_EMU320_NAME                                     :[KTS+] EMU-320
-STR_EMU320_DD_NAME                                  :[KTS+] EMU-320 DD
-STR_GT26CW_NAME                                     :[KTS+] GT26CW
-STR_GTX_NAME                                        :[KTS+] GTX
-STR_HEMU_430X_NAME                                  :[KTS+] HEMU-430X
-STR_HSR_350X_NAME                                   :[KTS+] HSR-350X
-STR_ICE_CW_NAME                                     :[KTS+] ITX-초월
-STR_ITX_SM2_NAME                                    :[KTS+] ITX-새마을 DD
-STR_KTX_SC_NAME                                     :[KTS+] KTX-산천
-STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
-STR_NRT2_NAME                                       :[KTS+] 누리로 DD
-STR_Bicheuro2_NAME                                  :[KTS+] 비츠로 DUPLEX
-STR_H2_WJ_NAME                                      :[KTS+] 우진산전 수소연료전지동차
-STR_Travel_8500_NAME                                :[KTS+] 관광열차 8500호대
-STR_TTX_NAME                                        :[KTS+] TTX
-STR_VHST_600X_NAME                                  :[KTS+] VHST-600X
+STR_AREX_NAME                                       :[KR+] 인천공항철도 2000호대 (4차분)
+STR_CTX_NAME                                        :[KR+] CTX
+STR_EMU150_NAME                                     :[KR+] EMU-150
+STR_EMU260_NAME                                     :[KR+] EMU-260
+STR_EMU260_DD_NAME                                  :[KR+] EMU-260 DD
+STR_EMU320_NAME                                     :[KR+] EMU-320
+STR_EMU320_DD_NAME                                  :[KR+] EMU-320 DD
+STR_GT26CW_NAME                                     :[KR+] GT26CW
+STR_GTX_NAME                                        :[KR+] GTX
+STR_HEMU_430X_NAME                                  :[KR+] HEMU-430X
+STR_HSR_350X_NAME                                   :[KR+] HSR-350X
+STR_ICE_CW_NAME                                     :[KR+] ITX-청춘 DD
+STR_ITX_SM2_NAME                                    :[KR+] ITX-새마을 DD
+STR_KTX_SC_NAME                                     :[KR+] KTX-산천
+STR_KTX_SC2_NAME                                    :[KR+] KTX-DD
+STR_NRT2_NAME                                       :[KR+] 누리로 DD
+STR_Bicheuro2_NAME                                  :[KR+] 비츠로 DUPLEX
+STR_H2_WJ_NAME                                      :[KR+] 우진산전 수소연료전지동차
+STR_Travel_8500_NAME                                :[KR+] 관광열차 8500호대
+STR_TTX_NAME                                        :[KR+] TTX
+STR_VHST_600X_NAME                                  :[KR+] VHST-600X
 
 # Metro's name
-STR_Standard_Metro_NAME                             :[KTS+] 한국형 표준전동차
-STR_AUTS_NAME                                       :[KTS+] AUTS
+STR_Standard_Metro_NAME                             :[KR+] 한국형 표준전동차
+STR_AUTS_NAME                                       :[KR+] AUTS
 
 # wagon's name
-STR_KTS_PASS_NAME                                   :[KTS+] 승객 수송 차량
-STR_KTS_SPASS_NAME                                  :[KTS+] 객차형 승객 수송 차량
-STR_Generatar_Car_NAME                              :[KTS+] 발전차
-STR_Luggage_Car_NAME                                :[KTS+] 수화물차
-STR_CTX_Freight_Car_NAME                            :[KTS+] CTX용 화물차량
+STR_KTS_PASS_NAME                                   :[KR+] 승객 수송 차량
+STR_KTS_SPASS_NAME                                  :[KR+] 객차형 승객 수송 차량
+STR_Generatar_Car_NAME                              :[KR+] 발전차
+STR_Luggage_Car_NAME                                :[KR+] 수화물차
+STR_CTX_Freight_Car_NAME                            :[KR+] CTX용 화물 수송 차량
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :일반열차 속도변수
