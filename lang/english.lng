@@ -2,9 +2,9 @@
 
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :Korean Train Set+ Addon v{VERSION}
-STR_GRF_DESC                                     :{BLACK}The Korean Train Set+ Add-on adds Korean trains scheduled for production and virtual double-decker trains. {}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: GBLINER
-STR_GRF_URL                                      :https://github.com/GBLINER/KoreanTrainSet_Plus
+STR_GRF_NAME_WITH_VER                            :KR+Set 1.3.0
+STR_GRF_DESC                                     :{BLACK}KR+Set adds Korean trains scheduled for production and virtual double-decker trains. {}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: Coconut
+STR_GRF_URL                                      :https://github.com/OpenCreative/KR_Plus_Set
 
 # locomotive's name
 STR_AREX_NAME                                       :[KTS+] AREX series 2000 EMU5
