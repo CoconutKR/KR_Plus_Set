@@ -7,38 +7,38 @@ STR_GRF_DESC                                     :{BLACK}KR+Set adds Korean trai
 STR_GRF_URL                                      :https://github.com/OpenCreative/KR_Plus_Set
 
 # locomotive's name
-STR_AREX_NAME                                       :[KTS+] AREX series 2000 EMU5
-STR_CTX_NAME                                        :[KTS+] CTX
-STR_EMU150_NAME                                     :[KTS+] EMU-150
-STR_EMU260_NAME                                     :[KTS+] EMU-260
-STR_EMU260_DD_NAME                                  :[KTS+] EMU-260 DD
-STR_EMU320_NAME                                     :[KTS+] EMU-320
-STR_EMU320_DD_NAME                                  :[KTS+] EMU-320 DD
-STR_GT26CW_NAME                                     :[KTS+] GT26CW
-STR_GTX_NAME                                        :[KTS+] GTX
-STR_HEMU_430X_NAME                                  :[KTS+] HEMU-430X
-STR_HSR_350X_NAME                                   :[KTS+] HSR-350X
-STR_ICE_CW_NAME                                     :[KTS+] ITX-Chowol
-STR_ITX_SM2_NAME                                    :[KTS+] ITX-Saemaeul DD
-STR_KTX_SC_NAME                                     :[KTS+] KTX-Sancheon
-STR_KTX_SC2_NAME                                    :[KTS+] KTX-DD
-STR_NRT2_NAME                                       :[KTS+] Nuriro DD
-STR_Bicheuro2_NAME                                  :[KTS+] Bicheuro DUPLEX
-STR_H2_WJ_NAME                                      :[KTS+] H2 by WOOJIN
-STR_Travel_8500_NAME                                :[KTS+] Travel 8500
-STR_TTX_NAME                                        :[KTS+] TTX
-STR_VHST_600X_NAME                                  :[KTS+] VHST-600X
+STR_AREX_NAME                                       :[KR+] AREX series 2000 EMU5
+STR_CTX_NAME                                        :[KR+] CTX
+STR_EMU150_NAME                                     :[KR+] EMU-150
+STR_EMU260_NAME                                     :[KR+] EMU-260
+STR_EMU260_DD_NAME                                  :[KR+] EMU-260 DD
+STR_EMU320_NAME                                     :[KR+] EMU-320
+STR_EMU320_DD_NAME                                  :[KR+] EMU-320 DD
+STR_GT26CW_NAME                                     :[KR+] GT26CW
+STR_GTX_NAME                                        :[KR+] GTX
+STR_HEMU_430X_NAME                                  :[KR+] HEMU-430X
+STR_HSR_350X_NAME                                   :[KR+] HSR-350X
+STR_ICE_CW_NAME                                     :[KR+] ITX-Chowol
+STR_ITX_SM2_NAME                                    :[KR+] ITX-Saemaeul DD
+STR_KTX_SC_NAME                                     :[KR+] KTX-Sancheon
+STR_KTX_SC2_NAME                                    :[KR+] KTX-DD
+STR_NRT2_NAME                                       :[KR+] Nuriro DD
+STR_Bicheuro2_NAME                                  :[KR+] Bicheuro DUPLEX
+STR_H2_WJ_NAME                                      :[KR+] H2 by WOOJIN
+STR_Travel_8500_NAME                                :[KR+] Travel 8500
+STR_TTX_NAME                                        :[KR+] TTX
+STR_VHST_600X_NAME                                  :[KR+] VHST-600X
 
 # Metro's name
-STR_Standard_Metro_NAME                             :[KTS+] Standard Metro
-STR_AUTS_NAME                                       :[KTS+] AUTS
+STR_Standard_Metro_NAME                             :[KR+] Standard Metro
+STR_AUTS_NAME                                       :[KR+] AUTS
 
 # wagon's name
-STR_KTS_PASS_NAME                                   :[KTS+] Passenger transport vehicle
-STR_KTS_SPASS_NAME                                  :[KTS+] carriage-type passenger transport vehicle
-STR_Generatar_Car_NAME                              :[KTS+] Generatar Car
-STR_Luggage_Car_NAME                                :[KTS+] Luggage Car
-STR_CTX_Freight_Car_NAME                            :[KTS+] CTX Freight Car
+STR_KTS_PASS_NAME                                   :[KR+] Passenger transport vehicle
+STR_KTS_SPASS_NAME                                  :[KR+] carriage-type passenger transport vehicle
+STR_Generatar_Car_NAME                              :[KR+] Generatar Car
+STR_Luggage_Car_NAME                                :[KR+] Luggage Car
+STR_CTX_Freight_Car_NAME                            :[KR+] CTX Freight Car
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :Regular Train Speed Variable
@@ -126,9 +126,9 @@ STR_REFIT_LIVERY_NRT2_Old_W                         :(Nuriro DD Old White Color)
 STR_REFIT_LIVERY_NRT2_New_W                         :(Nuriro DD New White Color)
 STR_REFIT_LIVERY_NRT2_Old_OT                        :(Nuriro DD O-train Livery)
 STR_REFIT_LIVERY_NRT2_New_ITX                       :(Nuriro DD ITX Livery)
-STR_REFIT_LIVERY_Bicheuro2_R                        :(Bicheuro DUPLEX Red Color)
-STR_REFIT_LIVERY_Bicheuro2_G                        :(Bicheuro DUPLEX Green Color)
-STR_REFIT_LIVERY_Bicheuro2_W                        :(Bicheuro DUPLEX White Color)
+STR_REFIT_LIVERY_Bicheuro2_R                        :(EMU-150 DD Red Color)
+STR_REFIT_LIVERY_Bicheuro2_G                        :(EMU-150 DD Green Color)
+STR_REFIT_LIVERY_Bicheuro2_W                        :(EMU-150 DD White Color)
 STR_REFIT_LIVERY_Eco_Rail_Passenger_Car             :(Eco Rail Passenger Car)
 STR_REFIT_LIVERY_CY_GW_Passenger_Car                :(Chungbuk Yeongdong Gugak & Wine Passenger Car)
 STR_REFIT_LIVERY_JA_a_Old_Passenger_Car             :(Jeongseon Arirang Old Color)
