@@ -4,8 +4,6 @@
 **KR+ Set**은 한국에서 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차, 그리고 가상의 한국형 열차, 2층열차를 추가해줍니다. 
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanTrainSet_Plus/releases)에서 다운로드할 수 있습니다.
 
-## 차량 목록 및 스펙
-
 ## 개발
 ### 빌드하는 방법
 이 NewGRF를 빌드하려면 [NML](https://github.com/OpenTTD/nml)과 **Python 3**이 필요합니다.  
@@ -14,4 +12,4 @@
 
 ## 저작권
 이 NewGRF는 **[크리에이티브 커먼스 라이선스 v3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)** (CC-BY-NC-SA v3.0)을 따릅니다. <br>
-이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다.
+이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다. 또한 이 NewGRF의 Sprite 중 일부는 YST에서 제작되었습니다.
