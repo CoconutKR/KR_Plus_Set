@@ -31,7 +31,7 @@ STR_VHST_600X_NAME                                  :[KR+] VHST-600X
 
 # Metro's name
 STR_Standard_Metro_NAME                             :[KR+] 한국형 표준전동차
-STR_AUTS_NAME                                       :[KR+] AUTS
+STR_AUTS_NAME                                       :[KR+] 차세대전동차 (AUTS)
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KR+] 승객 수송 차량
