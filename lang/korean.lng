@@ -7,7 +7,7 @@ STR_GRF_DESC                                     :{BLACK}KR+Set은 시험용으�
 STR_GRF_URL                                      :https://github.com/OpenCreative/KR_Plus_Set
 
 # locomotive's name
-STR_AREX_NAME                                       :[KR+] AREX
+STR_AREX_NAME                                       :[KR+] AREX (공항철도)
 STR_CTX_NAME                                        :[KR+] CTX
 STR_EMU150_NAME                                     :[KR+] EMU-150
 STR_EMU260_NAME                                     :[KR+] EMU-260
