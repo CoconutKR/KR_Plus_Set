@@ -242,6 +242,44 @@ spriteset(set_S_Train_New_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\S_Tra
 }
 
 /*--------------------------------------------------------------------
+9. A-Train 신도색
+--------------------------------------------------------------------*/
+spriteset(set_A_Train_New_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\A_train.png") {
+    wagon_1F_F(0, 0)
+}
+
+spriteset(set_A_Train_New_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\A_train.png") {
+    wagon_1F_F(0, 27)
+}
+
+spriteset(set_A_Train_New_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\A_train.png") {
+    wagon_1F_F(0, 54)
+}
+
+spriteset(set_A_Train_New_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\A_train.png") {
+    wagon_1F_F(0, 81)
+}
+
+/*--------------------------------------------------------------------
+9-1. A-Train 신도색 32bpp
+--------------------------------------------------------------------*/
+alternative_sprites(set_A_Train_New_1wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\wagon\SPassenger_wagon\Travel_wagon\A_train_32bpp.png") {
+    wagon_1F_F(0, 0)
+}
+
+alternative_sprites(set_A_Train_New_2wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\wagon\SPassenger_wagon\Travel_wagon\A_train_32bpp.png") {
+    wagon_1F_F(0, 27)
+}
+
+alternative_sprites(set_A_Train_New_3wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\wagon\SPassenger_wagon\Travel_wagon\A_train_32bpp.png") {
+    wagon_1F_F(0, 54)
+}
+
+alternative_sprites(set_A_Train_New_4wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\wagon\SPassenger_wagon\Travel_wagon\A_train_32bpp.png") {
+    wagon_1F_F(0, 81)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_SPassenger_wagon_purchase, cargo_subtype) {
