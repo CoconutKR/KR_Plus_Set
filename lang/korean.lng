@@ -83,6 +83,8 @@ STR_REFIT_train_configuration_Luggage               :{BLACK}열차구성: {GREEN
 STR_REFIT_train_configuration_CTX                   :{BLACK}열차구성: {GREEN}CTX용 화물차량
 
 # Liveries locomotive
+STR_REFIT_LIVERY_AREX_Normal                        :(기본 도색)
+STR_REFIT_LIVERY_AREX_Company_Color                 :(회사 색상)
 STR_REFIT_LIVERY_CTX_Freight                        :(CTX 화물전용 와인도색)
 STR_REFIT_LIVERY_CTX_Passenger_Freight              :(CTX 여객-화물복합 와인도색)
 STR_REFIT_LIVERY_EMU150R_1F                         :(EMU-150 1층 빨강도색)
