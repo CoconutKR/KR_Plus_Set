@@ -25,6 +25,10 @@ spriteset(set_Haerang_Train_engine, "src/locomotive/Travel_8500/Travel_8500.png"
     engine(80, 108)
 }
 
+alternative_sprites(set_Haerang_Train_engine, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/locomotive/Travel_8500/Travel_8500_32bpp.png"){
+    engine(80, 0)
+}
+
 spriteset(set_Wine_Train_engine, "src/locomotive/Travel_8500/Travel_8500.png"){
     engine(80, 135)
 }
