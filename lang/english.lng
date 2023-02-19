@@ -34,8 +34,8 @@ STR_Standard_Metro_NAME                             :[KR+] Standard Metro
 STR_AUTS_NAME                                       :[KR+] AUTS
 
 # wagon's name
-STR_KTS_PASS_NAME                                   :[KR+] Passenger transport vehicle
-STR_KTS_SPASS_NAME                                  :[KR+] carriage-type passenger transport vehicle
+STR_KTS_PASS_NAME                                   :[KR+] Passenger car
+STR_KTS_SPASS_NAME                                  :[KR+] carriage-type passenger car
 STR_Generatar_Car_NAME                              :[KR+] Generatar Car
 STR_Luggage_Car_NAME                                :[KR+] Luggage Car
 STR_CTX_Freight_Car_NAME                            :[KR+] CTX Freight Car
