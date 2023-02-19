@@ -3,7 +3,7 @@
 
 # GRF name and description
 STR_GRF_NAME_WITH_VER                            :KR+Set (RC) 1.4.0
-STR_GRF_DESC                                     :{BLACK}KR+Set은 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차와 가상의 한국형 열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다. {}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작:Coconut
+STR_GRF_DESC                                     :{BLACK}KR+Set은 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차와 한국형 컨셉열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다. {}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작:Coconut
 STR_GRF_URL                                      :https://github.com/OpenCreative/KR_Plus_Set
 
 # locomotive's name
