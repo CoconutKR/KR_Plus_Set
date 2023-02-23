@@ -9,21 +9,21 @@ STR_GRF_URL                                      :https://github.com/OpenCreativ
 # locomotive's name
 STR_AREX_NAME                                       :[KR+] AREX (공항철도)
 STR_CTX_NAME                                        :[KR+] CTX
-STR_EMU150_NAME                                     :[KR+] EMU-150
-STR_EMU260_NAME                                     :[KR+] EMU-260
-STR_EMU260_DD_NAME                                  :[KR+] EMU-260 DD
-STR_EMU320_NAME                                     :[KR+] EMU-320
-STR_EMU320_DD_NAME                                  :[KR+] EMU-320 DD
+STR_EMU150_NAME                                     :[KR+] ITX-새마을 (EMU-150)
+STR_EMU260_NAME                                     :[KR+] KTX-이음 (EMU-260)
+STR_EMU260_DD_NAME                                  :[KR+] KTX-이음 Max (EMU-260)
+STR_EMU320_NAME                                     :[KR+] KTX-이음 (EMU-320)
+STR_EMU320_DD_NAME                                  :[KR+] KTX-이음 Max (EMU-320)
 STR_GT26CW_NAME                                     :[KR+] 7100·7200·7300·7400·7500호대 디젤기관차
 STR_GTX_NAME                                        :[KR+] GTX
 STR_HEMU_430X_NAME                                  :[KR+] HEMU-430X (해무)
 STR_HSR_350X_NAME                                   :[KR+] HSR-350X
-STR_ICE_CW_NAME                                     :[KR+] ITX-청춘 DD
-STR_ITX_SM2_NAME                                    :[KR+] ITX-새마을 DD
+STR_ICE_CW_NAME                                     :[KR+] ITX-청춘 Max
+STR_ITX_SM2_NAME                                    :[KR+] ITX-새마을 Max
 STR_KTX_SC_NAME                                     :[KR+] KTX-산천
 STR_KTX_SC2_NAME                                    :[KR+] KTX-DD
-STR_NRT2_NAME                                       :[KR+] 누리로 DD
-STR_Bicheuro2_NAME                                  :[KR+] EMU-150 DD
+STR_NRT2_NAME                                       :[KR+] 누리로 Max
+STR_Bicheuro2_NAME                                  :[KR+] ITX-새마을 Max (EMU-150)
 STR_H2_WJ_NAME                                      :[KR+] 우진산전 수소연료전지동차
 STR_Travel_8500_NAME                                :[KR+] 8500호대 전기기관차
 STR_TTX_NAME                                        :[KR+] 한빛 200 (TTX)
