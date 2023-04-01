@@ -51,29 +51,29 @@ STR_PARAM_High_SPEED_Train_430_NAME                 :고속열차 속도변수 (
 STR_PARAM_High_SPEED_Train_430_DESC                 :고속열차의 속도를 조정합니다. (기본:430km/h)
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
-STR_REFIT_ADDITIONAL_AREX                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}AREX
-STR_REFIT_ADDITIONAL_CTX                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
-STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
-STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
-STR_REFIT_ADDITIONAL_EMU260_DD                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
-STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
-STR_REFIT_ADDITIONAL_EMU320_DD                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
-STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}GT26CW
-STR_REFIT_ADDITIONAL_GTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}GTX
-STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HEMU-430X
-STR_REFIT_ADDITIONAL_HSR_350X                       :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}HSR-350X
-STR_REFIT_ADDITIONAL_ITX_CW                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}ITX-초월
-STR_REFIT_ADDITIONAL_ITX_SM2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}ITX-새마을 DD
-STR_REFIT_ADDITIONAL_KTX_SC                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
-STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}CTX, [KTX+]KTX-산천, KTX-DD
-STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}누리로 DD
-STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}EMU-150, 비츠로 DUPLEX, EMU-260, EUM-320,{}EMU-260 DD, EMU-320 DD
-STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}H2 WJ
-STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}관광열차 8500
-STR_REFIT_ADDITIONAL_TTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}TTX
-STR_REFIT_ADDITIONAL_VHST_600X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}VHST-600X
-STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{RED}불가능
-STR_REFIT_ADDITIONAL_AUTS                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{RED}불가능
+STR_REFIT_ADDITIONAL_AREX                           :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2025년부터 운행될 인천국제공항철도 AREX 통근형 2세대 전동차.
+STR_REFIT_ADDITIONAL_CTX                            :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}KTX-산천을 기반으로한 화물 KTX 열차가 양산되었다는 컨셉을 가진 열차.
+STR_REFIT_ADDITIONAL_EMU150                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}2023년부터 운행되고 있는 ITX-새마을 2세대 전동차
+STR_REFIT_ADDITIONAL_EMU260                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}EMU-260의 초기 디자인 시안대로 양산되었다는 컨셉을 가진 열차
+STR_REFIT_ADDITIONAL_EMU260_DD                      :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}KTX-이음을 2층으로 확장한 컨셉열차
+STR_REFIT_ADDITIONAL_EMU320                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}EMU-320의 초기 디자인 시안대로 양산되었다는 컨셉을 가진 열차
+STR_REFIT_ADDITIONAL_EMU320_DD                      :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}한국형 2층 고속열차가 양산되었다는 컨셉을 가진 열차
+STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}한국 열차 세트의 관광열차 부분을 보완하기 위한 디젤기관차
+STR_REFIT_ADDITIONAL_GTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2024년부터 운행될 수도권광역급행철도 GTX-A 전동차
+STR_REFIT_ADDITIONAL_HEMU_430X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2012년에 제작된 기술실험용으로 개발된 고속열차
+STR_REFIT_ADDITIONAL_HSR_350X                       :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2002년에 제작된 기술실험용으로 개발된 고속열차
+STR_REFIT_ADDITIONAL_ITX_CW                         :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}ITX-청춘을 2층으로 확장한 컨셉열차
+STR_REFIT_ADDITIONAL_ITX_SM2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}ITX-새마을을 2층으로 확장한 컨셉열차
+STR_REFIT_ADDITIONAL_KTX_SC                         :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}KTX-산천의 호남고속선, 경강선 초기 디자인 시안대로 양산되었다는 컨셉을 가진 열차.
+STR_REFIT_ADDITIONAL_KTX_SC2                        :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}2015년에 KTX-산천을 기반으로 연구되었던 2층 고속열차.
+STR_REFIT_ADDITIONAL_NRT2                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}누리로를 2층으로 확장한 컨셉열차
+STR_REFIT_ADDITIONAL_Bicheuro2                      :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}EMU-150을 2층으로 확장한 컨셉열차
+STR_REFIT_ADDITIONAL_H2_WJ                          :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2022년에 제작된 기술실험용으로 개발된 수소 동차
+STR_REFIT_ADDITIONAL_Travel_8500                    :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}한국 열차 세트의 관광열차 부분을 보완하기 위한 전기기관차
+STR_REFIT_ADDITIONAL_TTX                            :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2007년에 제작된 기술실험용으로 개발된 틸팅열차
+STR_REFIT_ADDITIONAL_VHST_600X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2016년에 연구된 고속열차
+STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}1999년에 개발된 도시철도 표준 전동차
+STR_REFIT_ADDITIONAL_AUTS                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}2010년에 개발된 차세대 도시철도 전동차
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration_Passenger             :{BLACK}열차구성: {GREEN}승객 차량용
@@ -93,16 +93,16 @@ STR_REFIT_LIVERY_EMU150G_1F                         :(EMU-150 1층 녹색도색)
 STR_REFIT_LIVERY_EMU150G_2F                         :(EMU-150 2층 녹색도색)
 STR_REFIT_LIVERY_EMU150W_1F                         :(EMU-150 1층 흰색도색)
 STR_REFIT_LIVERY_EMU150W_2F                         :(EMU-150 2층 흰색도색)
-STR_REFIT_LIVERY_EMU260W                            :(EMU-260 흰색도색)
-STR_REFIT_LIVERY_EMU260BK                           :(EMU-260 검정도색)
-STR_REFIT_LIVERY_EMU260MD                           :(HEMU-250 초기도색)
+STR_REFIT_LIVERY_EMU260W                            :(EMU-250 시안 2안)
+STR_REFIT_LIVERY_EMU260BK                           :(EMU-250 시안 3안)
+STR_REFIT_LIVERY_EMU260MD                           :(HEMU-250 시안)
 STR_REFIT_LIVERY_EMU260SM1                          :(EMU-260 새마을 초기 도색)
 STR_REFIT_LIVERY_EMU260SM2                          :(EMU-260 새마을 중기 도색)
 STR_REFIT_LIVERY_EMU260SM3                          :(EMU-260 새마을 후기 도색)
 STR_REFIT_LIVERY_EMU320_CC                          :(EMU-320 회사색상)
-STR_REFIT_LIVERY_EMU320_BK                          :(EMU-320 검정도색)
-STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT)
-STR_REFIT_LIVERY_EMU320_SRT2                        :(EMU-320 SRT2)
+STR_REFIT_LIVERY_EMU320_BK                          :(EMU-300 시안)
+STR_REFIT_LIVERY_EMU320_SRT                         :(EMU-320 SRT 시안 1안)
+STR_REFIT_LIVERY_EMU320_SRT2                        :(EMU-320 SRT 컨셉)
 STR_REFIT_LIVERY_GT26CW_Korail                      :(코레일)
 STR_REFIT_LIVERY_GT26CW_CL                          :(철도청)
 STR_REFIT_LIVERY_GT26CW_CY_GW                       :(충북영동국악와인)
@@ -113,10 +113,10 @@ STR_REFIT_LIVERY_HEMU_430X_2F                       :(HEMU-430X 2층)
 STR_REFIT_LIVERY_ITX_SM2_R                          :(ITX-새마을 DD 빨강도색)
 STR_REFIT_LIVERY_ITX_SM2_G                          :(ITX-새마을 DD 녹색도색)
 STR_REFIT_LIVERY_ITX_SM2_W                          :(ITX-새마을 DD 흰색도색)
-STR_REFIT_LIVERY_KTX_HN_B                           :(KTX-호남 하늘도색)
-STR_REFIT_LIVERY_KTX_HN_Y                           :(KTX-호남 노랑도색)
-STR_REFIT_LIVERY_KTX_GG_B                           :(KTX-경강 파랑도색)
-STR_REFIT_LIVERY_KTX_GG_W                           :(KTX-경강 흰색도색)
+STR_REFIT_LIVERY_KTX_HN_B                           :(KTX-산천 호남고속선 시안 2안)
+STR_REFIT_LIVERY_KTX_HN_Y                           :(KTX-산천 호남고속선 시안 3안)
+STR_REFIT_LIVERY_KTX_GG_B                           :(KTX-산천 경강선 시안 1안)
+STR_REFIT_LIVERY_KTX_GG_W                           :(KTX-산천 경강선 컨셉)
 STR_REFIT_LIVERY_KTX_SC2_B                          :(KTX-DD 파랑도색)
 STR_REFIT_LIVERY_KTX_SC2_G                          :(KTX-DD 녹색도색)
 STR_REFIT_LIVERY_KTX_SC2_W                          :(KTX-DD 흰색도색)
