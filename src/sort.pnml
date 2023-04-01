@@ -2,28 +2,29 @@
 정렬
 --------------------------------------------------------------------*/
 sort(FEAT_TRAINS, [
-    APEX20005,                 //1138
-    CTX,                       //1132
-    EMU150,                    //1063
-    Bicheuro2,                 //1117
-    EMU260,                    //1064
-    EMU260_DD,                 //1072
-    EMU320,                    //1065
-    EMU320_DD,                 //1073
-    GT26CW,                    //1114
-    GTX,                       //1067
-    HEMU_430X,                 //1068
     HSR_350X,                  //1069
-    ITX_CW,                    //1070
-    ITX_SM2,                   //1071
-    KTX_SC,                    //1131
-    KTX_SC2,                   //1074
-    NRT2,                      //1075
-    H2_WJ,                     //1118
-    Travel_8500,               //1121
-    VHST_600X,                 //1135
+    TTX,                       //1134
+    HEMU_430X,                 //1068
     Standard_Metro,            //1122
     AUTS,                      //1123
+    H2_WJ,                     //1118
+    GTX,                       //1067
+    VHST_600X,                 //1135
+    KTX_SC,                    //1131
+    KTX_SC2,                   //1074
+    EMU320,                    //1065
+    EMU320_DD,                 //1073
+    EMU260,                    //1064
+    EMU260_DD,                 //1072
+    CTX,                       //1132
+    ITX_CW,                    //1070
+    ITX_SM2,                   //1071
+    EMU150,                    //1063
+    Bicheuro2,                 //1117
+    NRT2,                      //1075
+    Travel_8500,               //1121
+    GT26CW,                    //1114
+    APEX20005,                 //1138
     
     KTS_Passenger_Car,         //1061
     KTS_SPassenger_Car,        //1112
