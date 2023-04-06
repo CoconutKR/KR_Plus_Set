@@ -280,6 +280,29 @@ alternative_sprites(set_A_Train_New_4wagon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, 
 }
 
 /*--------------------------------------------------------------------
+10. G-Train 신도색
+--------------------------------------------------------------------*/
+spriteset(set_G_Train_New_1wagon, "src\wagon\SPassenger_wagon\Travel_wagon\G_train.png") {
+    wagon_1F_F(0, 108)
+}
+
+spriteset(set_G_Train_New_2wagon, "src\wagon\SPassenger_wagon\Travel_wagon\G_train.png") {
+    wagon_1F_F(0, 81)
+}
+
+spriteset(set_G_Train_New_3wagon, "src\wagon\SPassenger_wagon\Travel_wagon\G_train.png") {
+    wagon_1F_F(0, 54)
+}
+
+spriteset(set_G_Train_New_4wagon, "src\wagon\SPassenger_wagon\Travel_wagon\G_train.png") {
+    wagon_1F_F(0, 27)
+}
+
+spriteset(set_G_Train_New_5wagon, "src\wagon\SPassenger_wagon\Travel_wagon\G_train.png") {
+    wagon_1F_F(0, 0)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_SPassenger_wagon_purchase, cargo_subtype) {

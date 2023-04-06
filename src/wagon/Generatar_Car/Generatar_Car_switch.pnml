@@ -8,6 +8,7 @@ switch(FEAT_TRAINS, SELF, sw_Generatar_wagon_subtype_text, cargo_subtype) {
     4: return string(STR_REFIT_LIVERY_Lady_Bird_Generatar_Car);   // 레이디 버드
     5: return string(STR_REFIT_LIVERY_S_Train_New_Generatar_Car); // S-Train New
     6: return string(STR_REFIT_LIVERY_A_Train_New_Generatar_Car); // A-Train New
+    7: return string(STR_REFIT_LIVERY_G_Train_New_Generatar_Car); // G-Train New
     return string(STR_REFIT_LIVERY_Eco_Rail_Generatar_Car);
 }
 
@@ -18,6 +19,7 @@ switch(FEAT_TRAINS, SELF, sw_Generatar_wagon, cargo_subtype) {
     4: set_Lady_Bird_Generatar_Car;   // 레이디 버드
     5: set_S_Train_New_Generatar_Car; // S-Train New
     6: set_A_Train_New_Generatar_Car; // A-Train New
+    7: set_G_Train_New_Generatar_Car; // G-Train New
     set_Generatar_Car;
 }
 
