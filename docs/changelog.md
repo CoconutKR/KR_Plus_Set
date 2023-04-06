@@ -5,7 +5,8 @@
 * ITX-새마을 DD (회사색상 추가)
 * G-train 신도색 (추가)
 * 8500호대 관광열차 A-train, G-train 신도색 (추가)
-* DEL7600 A-train (추가)
+* DEL7600 A-Train 신도색 (추가)
+* GT26CW G-Train 도색 (추가)
 
 1.4.0-RC1 (개발버전)
 -----

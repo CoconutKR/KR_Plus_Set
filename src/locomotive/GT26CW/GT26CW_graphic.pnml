@@ -25,6 +25,10 @@ spriteset(set_GT26CW_ST_engine, "src/locomotive/GT26CW/GT26CW.png"){
     engine(80, 108)
 }
 
+spriteset(set_GT26CW_G_engine, "src/locomotive/GT26CW/GT26CW.png"){
+    engine(80, 135)
+}
+
 /*-------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
