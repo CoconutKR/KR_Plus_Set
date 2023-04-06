@@ -24,6 +24,7 @@ sort(FEAT_TRAINS, [
     NRT2,                      //1075
     Travel_8500,               //1121
     GT26CW,                    //1114
+    DEL7600,                   //1148
     APEX20005,                 //1138
     
     KTS_Passenger_Car,         //1061

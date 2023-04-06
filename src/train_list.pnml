@@ -9,6 +9,7 @@
 #include "locomotive/AREX/AREX.pnml"
 #include "locomotive/Bicheuro_DUPLEX/Bicheuro2.pnml"
 #include "locomotive/CTX/CTX.pnml"
+#include "locomotive/DEL7600/DEL7600.pnml"
 #include "locomotive/EMU/EMU150/EMU150.pnml"
 #include "locomotive/EMU/EMU260/EMU260.pnml"
 #include "locomotive/EMU/EMU260_DD/EMU260_DD.pnml"
