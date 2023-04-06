@@ -33,6 +33,14 @@ spriteset(set_Wine_Train_engine, "src/locomotive/Travel_8500/Travel_8500.png"){
     engine(80, 135)
 }
 
+spriteset(set_A_New_Train_engine, "src/locomotive/Travel_8500/Travel_8500.png"){
+    engine(80, 162)
+}
+
+spriteset(set_G_New_Train_engine, "src/locomotive/Travel_8500/Travel_8500.png"){
+    engine(80, 189)
+}
+
 /*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
